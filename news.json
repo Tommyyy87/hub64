@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-04T06:48:00+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 04.10.2026, 06:48",
+ "abgerufen": "2026-10-05T06:49:00+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 05.10.2026, 06:49",
  "eintraege": [
+  {
+   "id": "presseportal-6364272",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Rauchmelder und Feuerschein in Speldorf - Feuerwehr löscht Zimmerbrand",
+   "datum": "2026-10-04T08:06:04+02:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6364272",
+   "kurzfassung": "Nachbarn hörten einen Rauchmelder und sahen Feuerschein in einem Einfamilienhaus in Speldorf. Die Feuerwehr löschte brennendes Mobiliar, das aus dem Haus geholt worden war, und belüftete das Gebäude; niemand wurde angetroffen. Hinweis: Funktionierende Rauchmelder und aufmerksame Nachbarn können Schlimmeres verhindern.",
+   "region": "regional",
+   "kategorie": "Prävention"
+  },
   {
    "id": "presseportal-6363609",
    "quelle": "presseportal",
