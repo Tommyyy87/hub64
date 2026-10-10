@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-09T06:48:08+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 09.10.2026, 06:48",
+ "abgerufen": "2026-10-10T06:47:49+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 10.10.2026, 06:47",
  "eintraege": [
+  {
+   "id": "web-dfv-keine-gewalt-2026-10",
+   "quelle": "web",
+   "titel": "Keine Gewalt gegen Einsatzkräfte",
+   "datum": "2026-10-08T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/keine-gewalt-gegen-einsatzkraefte/",
+   "kurzfassung": "Der Deutsche Feuerwehrverband stellt gemeinsam mit Feuerwehrversand und GroupAlarm in Berlin eine Notfalllösung vor. Gewalt gegen Einsatzkräfte tritt auch außerhalb von Einsätzen auf, etwa bei Brandsicherheitswachen und Veranstaltungen.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
   {
    "id": "presseportal-6364272",
    "quelle": "presseportal",
