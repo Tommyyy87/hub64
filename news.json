@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-13T06:55:00+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 13.10.2026, 06:55",
+ "abgerufen": "2026-10-14T06:48:40+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 14.10.2026, 06:48",
  "eintraege": [
+  {
+   "id": "web-dfv-notfallreform-forderungen-2026-10",
+   "quelle": "web",
+   "titel": "Hilfsorganisationen und Feuerwehren bekräftigen Forderungen zur Notfallreform",
+   "datum": "2026-10-13T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/anerkannte-hilfs-und-beauftragte-luftrettungsorganisationen-und-feuerwehren-bekraeftigen-ihre-forderungen-bezueglich-geplanter-notfallreform/",
+   "kurzfassung": "Acht Hilfs- und Luftrettungsorganisationen sowie Feuerwehrverbände forderten am 13.10.2026 am Brandenburger Tor in Berlin vor der 2./3. Lesung im Bundestag Korrekturen an der Notfallreform. Verlangt werden klare gesetzliche Finanzierungsregeln für die Notfallrettung und ein Stimmrecht im geplanten bundesweiten Fachgremium.",
+   "region": "national",
+   "kategorie": "Rettungsdienst"
+  },
   {
    "id": "web-dfv-keine-gewalt-2026-10",
    "quelle": "web",
