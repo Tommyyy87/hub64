@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-15T06:48:39+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 15.10.2026, 06:48",
+ "abgerufen": "2026-10-16T06:50:00+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 16.10.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-dfv-co-macht-ko-2026-10",
+   "quelle": "web",
+   "titel": "Kostenloses Kampagnenmaterial von „CO macht K.O.“",
+   "datum": "2026-10-15T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/kostenloses-kampagnenmaterial-von-co-macht-k-o/",
+   "kurzfassung": "Die Initiative „CO macht K.O.“, der der DFV angehört, stellt Feuerwehren kostenlos Material gegen Kohlenmonoxid-Vergiftungen bereit (Pressemitteilung, Social-Media-Motive, Infoblätter). Die Aktionswoche zur Zeitumstellung beginnt am 25.10.2026.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "presseportal-6371278",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Alleinunfall auf der BAB 40",
+   "datum": "2026-10-14T07:50:00+02:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6371278",
+   "kurzfassung": "Auf der BAB 40 Richtung Essen hinter der Anschlussstelle Styrum fuhr ein Pkw nach einem medizinischen Notfall des Fahrers gegen die Mittelleitplanke. Der Fahrer kam ins Krankenhaus, die Autobahn war etwa eine halbe Stunde voll gesperrt.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-dfv-notfallreform-forderungen-2026-10",
    "quelle": "web",
