@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-16T06:50:00+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 16.10.2026, 06:50",
+ "abgerufen": "2026-10-17T06:55:00+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 17.10.2026, 06:55",
  "eintraege": [
+  {
+   "id": "web-dfv-bundesfachkongress-2026-10",
+   "quelle": "web",
+   "titel": "Ziele: Einsatzkräfte unterstützen, Bevölkerung ausbilden",
+   "datum": "2026-10-17T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/ziele-einsatzkraefte-unterstuetzen-bevoelkerung-ausbilden/",
+   "kurzfassung": "Beim DFV-Bundesfachkongress in Berlin diskutierten 130 Führungskräfte über Bevölkerungsschutz und Zivile Verteidigung, u. a. Ausbildung und Ausrüstung der Einsatzkräfte, Zusammenarbeit mit der Bundeswehr und den Pakt für den Bevölkerungsschutz. BBK-Präsidentin Grit Tüngler plädierte für eine besser vorbereitete und stärker eingebundene Bevölkerung.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
   {
    "id": "web-dfv-co-macht-ko-2026-10",
    "quelle": "web",
