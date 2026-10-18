@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-17T06:55:00+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 17.10.2026, 06:55",
+ "abgerufen": "2026-10-18T06:50:00+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 18.10.2026, 06:50",
  "eintraege": [
   {
    "id": "web-dfv-bundesfachkongress-2026-10",
@@ -12,6 +12,16 @@
    "kurzfassung": "Beim DFV-Bundesfachkongress in Berlin diskutierten 130 Führungskräfte über Bevölkerungsschutz und Zivile Verteidigung, u. a. Ausbildung und Ausrüstung der Einsatzkräfte, Zusammenarbeit mit der Bundeswehr und den Pakt für den Bevölkerungsschutz. BBK-Präsidentin Grit Tüngler plädierte für eine besser vorbereitete und stärker eingebundene Bevölkerung.",
    "region": "national",
    "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-dfv-weltecke-praesident-2026-10",
+   "quelle": "web",
+   "titel": "Dr. Christoph Weltecke wird neuer DFV-Präsident",
+   "datum": "2026-10-17T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/dr-christoph-weltecke-wird-neuer-dfv-praesident/",
+   "kurzfassung": "Die 73. Delegiertenversammlung des Deutschen Feuerwehrverbands in Berlin hat Dr. Christoph Weltecke aus Korbach (Hessen) zum Nachfolger von Karl-Heinz Banse gewählt.",
+   "region": "national",
+   "kategorie": "Verband"
   },
   {
    "id": "web-dfv-co-macht-ko-2026-10",
