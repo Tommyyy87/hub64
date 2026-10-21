@@ -1,8 +1,38 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-20T06:48:18+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 20.10.2026, 06:48",
+ "abgerufen": "2026-10-21T06:49:21+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 21.10.2026, 06:49",
  "eintraege": [
+  {
+   "id": "web-dfv-if-star-2026-10",
+   "quelle": "web",
+   "titel": "Der IF Star 2026 geht an zwei Freiwillige Feuerwehren und einen Kreisfeuerwehrverband",
+   "datum": "2026-10-19T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/der-if-star-2026-geht-an-zwei-freiwillige-feuerwehren-und-einen-kreisfeuerwehrverband/",
+   "kurzfassung": "Die öffentlichen Versicherer und der Deutsche Feuerwehrverband haben den IF Star zum neunten Mal an Feuerwehren mit innovativen Ideen verliehen.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "web-dfv-bevoelkerungsschutz-resilienz-2026-10",
+   "quelle": "web",
+   "titel": "Bevölkerungsschutz, Resilienz und Zusammenarbeit",
+   "datum": "2026-10-19T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/bevoelkerungsschutz-resilienz-und-zusammenarbeit/",
+   "kurzfassung": "Bei der 73. DFV-Delegiertenversammlung in Berlin betonte DFV-Präsident Karl-Heinz Banse, dass Krisen nur mit starken Partnern bewältigt werden können.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-dfv-brandverletztes-kind-2026-10",
+   "quelle": "web",
+   "titel": "„Kurz berührt – lang gespürt“: Tag des brandverletzten Kindes 2026",
+   "datum": "2026-10-19T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/kurz-beruehrt-lang-gespuert-tag-des-brandverletzten-kindes-2026/",
+   "kurzfassung": "Der Aktionstag am 7. Dezember 2026 widmet sich Kontaktverbrennungen an heißen Flächen wie Herdplatten, Bügeleisen und Heizkörpern; Kliniken, Kitas und Feuerwehren können sich als Aktionspartner anmelden. Gutes Thema für die Brandschutzerziehung.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
   {
    "id": "web-dfv-bundesfachkongress-2026-10",
    "quelle": "web",
