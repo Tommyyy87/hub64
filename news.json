@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-22T06:48:53+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 22.10.2026, 06:48",
+ "abgerufen": "2026-10-23T06:48:23+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 23.10.2026, 06:48",
  "eintraege": [
+  {
+   "id": "web-dfv-it-sicherheitsluecke-2026-10",
+   "quelle": "web",
+   "titel": "Kritische IT-Sicherheitslücken: DFV fordert Kommunen und BOS zur sofortigen Prüfung ihrer Systeme auf",
+   "datum": "2026-10-21T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/kritische-it-sicherheitsluecken-dfv-fordert-kommunen-und-bos-zur-sofortigen-pruefung-ihrer-systeme-auf/",
+   "kurzfassung": "Der DFV ruft Kommunen, Feuerwehren, Leitstellen und Sicherheitsbehörden auf, ihre IT-Systeme auf die PHP-Lücke „PHP2Shell“ zu prüfen und betroffene Anwendungen zu aktualisieren oder vorübergehend abzuschalten.",
+   "region": "national",
+   "kategorie": "Technik"
+  },
+  {
+   "id": "web-dfv-lieferantenverzeichnis-2026-10",
+   "quelle": "web",
+   "titel": "Lieferantenverzeichnis des Mittelstands",
+   "datum": "2026-10-21T11:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/lieferantenverzeichnis-des-mittelstands/",
+   "kurzfassung": "Über eine Kooperation mit dem BVMW können Feuerwehren ein webbasiertes Verzeichnis nutzen, um mittelständische Unternehmen nach Geschäftsfeld und Region zu finden.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
   {
    "id": "web-dfv-if-star-2026-10",
    "quelle": "web",
