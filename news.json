@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-23T06:48:23+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 23.10.2026, 06:48",
+ "abgerufen": "2026-10-24T06:48:29+02:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 24.10.2026, 06:48",
  "eintraege": [
+  {
+   "id": "web-dfv-co-melder-zeitumstellung-2026-10",
+   "quelle": "web",
+   "titel": "Zeitumstellung: Heizung an. CO-Melder auch?",
+   "datum": "2026-10-23T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/zeitumstellung-heizung-an-co-melder-auch/",
+   "kurzfassung": "Die Initiative „CO macht K.O.“ ruft dazu auf, zur Zeitumstellung und zu Beginn der Heizperiode die Kohlenmonoxid-Melder im Haushalt zu prüfen.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-dfv-umfrage-strassenraum-2026-10",
+   "quelle": "web",
+   "titel": "Umfrage: Feuerwehr im Straßenraum",
+   "datum": "2026-10-23T12:00:00+02:00",
+   "link": "https://www.feuerwehrverband.de/umfrage-feuerwehr-im-strassenraum/",
+   "kurzfassung": "Eine Umfrage unter Berufsfeuerwehrleuten untersucht, wie sich die Verkehrssituation auf Einsatzfahrten auswirkt.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
   {
    "id": "web-dfv-it-sicherheitsluecke-2026-10",
    "quelle": "web",
