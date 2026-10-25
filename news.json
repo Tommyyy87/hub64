@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-24T06:48:29+02:00",
- "hinweis": "Automatisch aktualisiert von Claude am 24.10.2026, 06:48",
+ "abgerufen": "2026-10-25T05:48:43+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 25.10.2026, 05:48",
  "eintraege": [
+  {
+   "id": "presseportal-6377029",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Unwetterlage über Mülheim an der Ruhr.",
+   "datum": "2026-10-24T06:58:32+02:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6377029",
+   "kurzfassung": "Am Nachmittag und Abend des 23.10.2026 gab es im Stadtgebiet mehr als 30 unwetterbedingte Hilfeleistungseinsätze, u. a. wegen umgestürzter Bäume, abgebrochener Äste und defekter Ampeln. Es entstanden nur Sachschäden; der Löschzug Mülheim-Heißen unterstützte spontan an seinem Übungsabend.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-dfv-co-melder-zeitumstellung-2026-10",
    "quelle": "web",
@@ -104,6 +114,16 @@
    "kategorie": "Prävention"
   },
   {
+   "id": "web-ctif-hazmat-rotterdam-2026-10",
+   "quelle": "web",
+   "titel": "CTIF-Hazmat-Kommission tagte im Mai 2026 in Rotterdam zu CBRN-Herausforderungen",
+   "datum": "2026-10-14T12:00:00+02:00",
+   "link": "https://www.ctif.org/news/ctif-hazmat-commission-met-rotterdam-may-2026-address-emerging-cbrn-and-hazardous-materials",
+   "kurzfassung": "Die CTIF-Kommission befasste sich in Rotterdam mit neuen Herausforderungen bei CBRN- und Gefahrstofflagen.",
+   "region": "international",
+   "kategorie": "Fachkongress"
+  },
+  {
    "id": "presseportal-6371278",
    "quelle": "presseportal",
    "titel": "FW-MH: Alleinunfall auf der BAB 40",
@@ -122,6 +142,26 @@
    "kurzfassung": "Acht Hilfs- und Luftrettungsorganisationen sowie Feuerwehrverbände forderten am 13.10.2026 am Brandenburger Tor in Berlin vor der 2./3. Lesung im Bundestag Korrekturen an der Notfallreform. Verlangt werden klare gesetzliche Finanzierungsregeln für die Notfallrettung und ein Stimmrecht im geplanten bundesweiten Fachgremium.",
    "region": "national",
    "kategorie": "Rettungsdienst"
+  },
+  {
+   "id": "web-ctif-100-cities-2026-10",
+   "quelle": "web",
+   "titel": "Update zur Publikation „100 Cities – 100 Years: Evaluation of Urban Fire Risks“",
+   "datum": "2026-10-13T12:00:00+02:00",
+   "link": "https://www.ctif.org/news/update-publication-100-cities-100-years-evaluation-urban-fire-risks-volume-i-iii",
+   "kurzfassung": "CTIF informiert über den Stand der dreibändigen Publikation zur Bewertung städtischer Brandrisiken.",
+   "region": "international",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-ctif-meps-loeschflugzeuge-2026-10",
+   "quelle": "web",
+   "titel": "33 europäische Abgeordnete wenden sich gegen den Kauf kanadischer Löschflugzeuge",
+   "datum": "2026-10-09T12:00:00+02:00",
+   "link": "https://www.ctif.org/news/33-european-meps-push-back-plans-buy-canadian-firefighting-aircraft-warning-eu-not-sideline",
+   "kurzfassung": "Laut CTIF warnen 33 Europaabgeordnete davor, die eigene europäische Löschflugzeug-Industrie bei der Beschaffung zu übergehen.",
+   "region": "international",
+   "kategorie": "Technik"
   },
   {
    "id": "web-dfv-keine-gewalt-2026-10",
