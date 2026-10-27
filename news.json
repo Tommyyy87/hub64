@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-26T05:48:26+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 26.10.2026, 05:48",
+ "abgerufen": "2026-10-27T05:48:56+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 27.10.2026, 05:48",
  "eintraege": [
+  {
+   "id": "presseportal-6377961",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Einladung an die Medien: Taufe von zwei neuen Mehrzweck- und Rettungsbooten der Feuerwehr Mülheim an der Ruhr",
+   "datum": "2026-10-26T12:40:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6377961",
+   "kurzfassung": "Die Feuerwehr lädt die Medien zur Taufe von zwei neuen Mehrzweck- und Rettungsbooten am Dienstag, 27.10.2026, 16:00 Uhr an der Alten Schleuse 1 ein. Vorgesehen sind Besichtigung der Boote sowie foto- und filmische Begleitung der Taufe.",
+   "region": "regional",
+   "kategorie": "Pressetermin"
+  },
   {
    "id": "presseportal-6377029",
    "quelle": "presseportal",
