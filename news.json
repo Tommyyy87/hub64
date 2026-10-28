@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-27T05:48:56+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 27.10.2026, 05:48",
+ "abgerufen": "2026-10-28T05:50:00+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 28.10.2026, 05:50",
  "eintraege": [
+  {
+   "id": "presseportal-6379174",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Abschlussmeldung: Brand im St. Marien-Hospital - mehrere Personen gerettet, insgesamt 32 Betroffene",
+   "datum": "2026-10-27T18:56:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6379174",
+   "kurzfassung": "Nach Auslösung der Brandmeldeanlage im St. Marien-Hospital (Kaiserstraße) rettete die Feuerwehr eine Person über die Drehleiter und eine weitere über den Treppenraum; insgesamt wurden 32 Betroffene erfasst und im Haus behandelt. Das Feuer war nach knapp einer Stunde gelöscht, 50 Einsatzkräfte waren rund vier Stunden im Einsatz; die Polizei ermittelt zur Ursache.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "presseportal-6379085",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Erstmeldung: Brand im St. Marien-Hospital - zwei Personen gerettet",
+   "datum": "2026-10-27T14:55:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6379085",
+   "kurzfassung": "Aus einem Patientenzimmer des St. Marien-Hospitals drang Rauch; zwei Personen wurden gerettet, zunächst waren 13 Betroffene bekannt. Das Stichwort wurde auf MANV erhöht, nach 54 Minuten war das Feuer gelöscht.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "presseportal-6377961",
    "quelle": "presseportal",
