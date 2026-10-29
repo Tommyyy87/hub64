@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-10-28T05:50:00+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 28.10.2026, 05:50",
+ "abgerufen": "2026-10-29T06:48:39+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 29.10.2026, 06:48",
  "eintraege": [
+  {
+   "id": "presseportal-6379713",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Feuerwehr Mülheim an der Ruhr tauft zwei neue Rettungsboote",
+   "datum": "2026-10-28T14:17:34+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6379713",
+   "kurzfassung": "Die Feuerwehr hat am 27.10.2026 am Wasserbahnhof zwei neue Mehrzweck- und Rettungsboote vom Typ „Faster 73 CAT“ auf die Namen „Branddirektor Boehme“ und „Branddirektor Sorge“ getauft. Sie ersetzen rund 30 Jahre alte Boote, liegen fest auf der Ruhr und sind u. a. mit Bugklappe, Kran (bis 150 kg) und Halterung für eine Feuerlöschpumpe ausgestattet.",
+   "region": "regional",
+   "kategorie": "Pressetermin"
+  },
   {
    "id": "presseportal-6379174",
    "quelle": "presseportal",
