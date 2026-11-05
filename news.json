@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-04T06:55:00+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 04.11.2026, 06:55",
+ "abgerufen": "2026-11-05T06:48:17+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 05.11.2026, 06:48",
  "eintraege": [
+  {
+   "id": "web-dfv-dfz-november-2026",
+   "quelle": "web",
+   "titel": "Deutsche Feuerwehr-Zeitung November 2026",
+   "datum": "2026-11-04T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/deutsche-feuerwehr-zeitung-november-2026/",
+   "kurzfassung": "Die November-Ausgabe der DFZ behandelt die Wahl von Dr. Christoph Weltecke zum neuen DFV-Präsidenten, die 73. Delegiertenversammlung, den IF Star 2026 und den 14. DFV-Bundesfachkongress. Weitere Themen sind die Aktion zur Notfallreform und die DFV-Forderung nach Wohnraum für ehrenamtliche Feuerwehrangehörige.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
   {
    "id": "presseportal-6379713",
    "quelle": "presseportal",
