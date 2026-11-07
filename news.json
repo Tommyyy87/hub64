@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-06T06:49:10+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 06.11.2026, 06:49",
+ "abgerufen": "2026-11-07T06:48:30+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 07.11.2026, 06:48",
  "eintraege": [
+  {
+   "id": "web-dfv-ki-umfrage-einsatznachsorge-2026-11",
+   "quelle": "web",
+   "titel": "Umfrage zu KI-gestützter Intervention nach Einsätzen",
+   "datum": "2026-11-06T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/umfrage-zu-ki-gestuetzter-intervention-nach-einsaetzen/",
+   "kurzfassung": "Die Universität zu Lübeck und die Charlotte Fresenius Universität befragen Einsatzkräfte, wann eine KI-gestützte Intervention nach belastenden Einsätzen sinnvoll erscheint. Teilnehmen können alle Feuerwehrangehörigen, die Umfrage läuft bis 10. Dezember.",
+   "region": "national",
+   "kategorie": "Einsatznachsorge"
+  },
   {
    "id": "web-dfv-dfz-november-2026",
    "quelle": "web",
@@ -12,6 +22,16 @@
    "kurzfassung": "Die November-Ausgabe der DFZ behandelt die Wahl von Dr. Christoph Weltecke zum neuen DFV-Präsidenten, die 73. Delegiertenversammlung, den IF Star 2026 und den 14. DFV-Bundesfachkongress. Weitere Themen sind die Aktion zur Notfallreform und die DFV-Forderung nach Wohnraum für ehrenamtliche Feuerwehrangehörige.",
    "region": "national",
    "kategorie": "Verband"
+  },
+  {
+   "id": "web-euobserver-feuerwehr-protest-bruessel-2026-11",
+   "quelle": "web",
+   "titel": "Feuerwehrleute aus 19 Ländern protestieren in Brüssel gegen Kürzungen beim EU-Katastrophenschutz",
+   "datum": "2026-11-03T12:00:00+01:00",
+   "link": "https://euobserver.com/246651/firefighters-from-19-countries-protest-eu-disaster-budget-cuts-in-brussels/",
+   "kurzfassung": "Rund 1.000 Feuerwehrleute aus 19 Ländern forderten in Brüssel vor den EU-Haushaltsverhandlungen mehr Ausrüstung und Personal. Die irische Ratspräsidentschaft schlägt für Katastrophenmanagement knapp 7 Mrd. Euro statt der von der Kommission beantragten mehr als 10 Mrd. Euro vor.",
+   "region": "international",
+   "kategorie": "Bevölkerungsschutz"
   },
   {
    "id": "presseportal-6379713",
