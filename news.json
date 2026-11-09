@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-08T06:48:19+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 08.11.2026, 06:48",
+ "abgerufen": "2026-11-09T06:48:41+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 09.11.2026, 06:48",
  "eintraege": [
   {
    "id": "web-dfv-ki-umfrage-einsatznachsorge-2026-11",
@@ -322,16 +322,6 @@
    "kurzfassung": "Die Freiwillige Feuerwehr Mülheim feiert am 19. September 2026 ihr 25-jähriges Bestehen mit einem Festakt in der WDL-Luftschiffhalle am Flughafen Essen/Mülheim; erwartet werden u. a. NRW-Innenminister Herbert Reul und der Oberbürgermeister.",
    "region": "regional",
    "kategorie": "Pressetermin"
-  },
-  {
-   "id": "web-dfv-notfallreform-2026-09",
-   "quelle": "web",
-   "titel": "Notfallreform: Rettungsdienst braucht verlässliche Finanzierung und echte Mitsprache",
-   "datum": "2026-09-08T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/notfallreform-rettungsdienst-braucht-verlaessliche-finanzierung-und-echte-mitsprache/",
-   "kurzfassung": "Der DFV fordert mit anderen Hilfsorganisationen Verbesserungen am Gesetzentwurf zur Notfallreform, vor allem bei Finanzierung und Mitsprache des Rettungsdienstes.",
-   "region": "national",
-   "kategorie": "Rettungsdienst"
   },
   {
    "id": "presseportal-6346004",
