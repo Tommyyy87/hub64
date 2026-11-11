@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-10T06:48:51+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 10.11.2026, 06:48",
+ "abgerufen": "2026-11-11T06:49:51+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 11.11.2026, 06:49",
  "eintraege": [
+  {
+   "id": "web-fwm-hannover-notfallinformationspunkte-2026-11",
+   "quelle": "web",
+   "titel": "43 Notfallinformationspunkte erstmals zeitgleich aufgebaut",
+   "datum": "2026-11-10T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/43-notfallinformationspunkte-erstmals-zeitgleich-aufgebaut-145824",
+   "kurzfassung": "Bei einer Übung am 7. November 2026 bauten in Hannover rund 500 Einsatzkräfte mit 110 Fahrzeugen erstmals alle 43 Notfallinformationspunkte gleichzeitig auf; simuliert wurde ein länger andauernder Stromausfall. Ab Mitte 2027 sollen die Punkte dauerhaft besetzt werden können.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-fwm-magirus-verkauf-morita-2026-11",
+   "quelle": "web",
+   "titel": "Magirus: Mutares vereinbart Verkauf an Morita",
+   "datum": "2026-11-09T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/magirus-mutares-vereinbart-verkauf-an-morita-145821",
+   "kurzfassung": "Mutares hat am 9. November 2026 den Verkauf des Feuerwehrgeschäfts von Magirus an die japanische Morita Holdings vereinbart; der Bereich Defense & Security ist ausgenommen. Ein Termin für den Vollzug steht noch nicht fest.",
+   "region": "national",
+   "kategorie": "Technik"
+  },
   {
    "id": "web-dfv-ki-umfrage-einsatznachsorge-2026-11",
    "quelle": "web",
@@ -12,6 +32,26 @@
    "kurzfassung": "Die Universität zu Lübeck und die Charlotte Fresenius Universität befragen Einsatzkräfte, wann eine KI-gestützte Intervention nach belastenden Einsätzen sinnvoll erscheint. Teilnehmen können alle Feuerwehrangehörigen, die Umfrage läuft bis 10. Dezember.",
    "region": "national",
    "kategorie": "Einsatznachsorge"
+  },
+  {
+   "id": "web-fwm-sagre-gewalt-einsatzkraefte-2026-11",
+   "quelle": "web",
+   "titel": "Gewalt gegen Einsatzkräfte: Studie zeigt Probleme bei der Meldung",
+   "datum": "2026-11-06T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/gewalt-gegen-einsatzkraefte-studie-zeigt-probleme-bei-der-meldung-145801",
+   "kurzfassung": "Laut der zweijährigen Studie SAGRE gehören Beleidigungen, Sachschäden und Behinderungen zu den häufigsten Übergriffen auf nichtpolizeiliche Einsatzkräfte. Viele Vorfälle werden nicht gemeldet, die Forschenden haben Handlungsempfehlungen erarbeitet.",
+   "region": "national",
+   "kategorie": "Einsatzkräfteschutz"
+  },
+  {
+   "id": "web-fwm-dinslaken-firefighter-challenge-wm-2026-11",
+   "quelle": "web",
+   "titel": "Dinslakener Feuerwehrsportler schaffen Sprung in die Weltspitze",
+   "datum": "2026-11-05T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/dinslakener-feuerwehrsportler-schaffen-sprung-in-die-weltspitze-145785",
+   "kurzfassung": "Vier Angehörige der Feuerwehr Dinslaken nahmen vom 16. bis 26. Oktober 2026 an der WM der Firefighter Challenge League in Las Vegas teil; das Team belegte in der Fire-Department-Wertung Rang neun.",
+   "region": "regional",
+   "kategorie": "Feuerwehrsport"
   },
   {
    "id": "web-dfv-dfz-november-2026",
@@ -32,6 +72,26 @@
    "kurzfassung": "Rund 1.000 Feuerwehrleute aus 19 Ländern forderten in Brüssel vor den EU-Haushaltsverhandlungen mehr Ausrüstung und Personal. Die irische Ratspräsidentschaft schlägt für Katastrophenmanagement knapp 7 Mrd. Euro statt der von der Kommission beantragten mehr als 10 Mrd. Euro vor.",
    "region": "international",
    "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-eunews-lahbib-krisenvorsorge-2026-11",
+   "quelle": "web",
+   "titel": "Lahbib: „Kein Land soll eine Krise allein bewältigen müssen“ – EU-Leitlinien zur Krisenvorsorge",
+   "datum": "2026-11-03T12:00:00+01:00",
+   "link": "https://www.eunews.it/en/2026/11/03/lahbib-no-country-should-have-to-face-a-crisis-alone-eu-guidelines/",
+   "kurzfassung": "EU-Kommissarin Hadja Lahbib stellte zum 25-jährigen Bestehen des EU-Katastrophenschutzverfahrens einen Plan zur Notfallvorsorge vor und schlug den 23. Oktober als Europäischen Tag der Krisenvorsorge vor. Schwerpunkte sind u. a. 72 Stunden Selbsthilfefähigkeit der Bevölkerung und Notfalltraining an Schulen.",
+   "region": "international",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-eunews-eurobarometer-katastrophenschutz-2026-10",
+   "quelle": "web",
+   "titel": "Eurobarometer: Neun von zehn Europäern für stärkere EU-Koordination im Notfall",
+   "datum": "2026-10-30T12:00:00+01:00",
+   "link": "https://www.eunews.it/en/2026/10/30/nine-out-of-ten-europeans-back-greater-eu-coordination-during-emergencies/",
+   "kurzfassung": "Laut Spezial-Eurobarometer halten neun von zehn Europäern die EU-Koordination bei Katastrophen für wichtig, 94 % befürworten gegenseitige Hilfe der Mitgliedstaaten. Bis 7. Oktober 2026 waren in der EU über 692.000 Hektar verbrannt – fast das Doppelte des 20-Jahres-Mittels.",
+   "region": "international",
+   "kategorie": "Waldbrand"
   },
   {
    "id": "presseportal-6379713",
