@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-11T06:49:51+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 11.11.2026, 06:49",
+ "abgerufen": "2026-11-12T06:49:55+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 12.11.2026, 06:49",
  "eintraege": [
+  {
+   "id": "web-dfv-staab-gleichstellung-2026-11",
+   "quelle": "web",
+   "titel": "Christiane Staab ist neue DFV-Bundesbeauftragte für Gleichstellung",
+   "datum": "2026-11-11T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/christiane-staab-ist-neue-dfv-bundesbeauftragte-fuer-gleichstellung/",
+   "kurzfassung": "Die baden-württembergische Landtagsabgeordnete und aktive Feuerwehrfrau Christiane Staab übernimmt ehrenamtlich das Amt der Bundesbeauftragten für Gleichstellung im Deutschen Feuerwehrverband.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "web-eu-lahbib-groenland-arktis-2026-11",
+   "quelle": "web",
+   "titel": "EU-Kommissarin Lahbib reist nach Grönland – mehr Zusammenarbeit bei der Krisenvorsorge in der Arktis",
+   "datum": "2026-11-11T12:00:00+01:00",
+   "link": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en",
+   "kurzfassung": "EU-Kommissarin Hadja Lahbib besucht Grönland, um die Zusammenarbeit bei der Katastrophenvorsorge in der Arktis zu vertiefen. Die EU verweist auf steigende Risiken wie Waldbrände, Erdrutsche, Tsunamis und Überflutungen durch Eisschmelze.",
+   "region": "international",
+   "kategorie": "Bevölkerungsschutz"
+  },
   {
    "id": "web-fwm-hannover-notfallinformationspunkte-2026-11",
    "quelle": "web",
@@ -64,6 +84,16 @@
    "kategorie": "Verband"
   },
   {
+   "id": "web-fwm-luekex26-hitze-duerre-2026-11",
+   "quelle": "web",
+   "titel": "Extreme Hitze und Dürre: Fast 180 Organisationen proben den Krisenfall (LÜKEX 26)",
+   "datum": "2026-11-04T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/extreme-hitze-und-duerre-fast-180-organisationen-proben-den-krisenfall-145780",
+   "kurzfassung": "Vom 4. bis 6. November übten rund 180 Organisationen in der vom BBK koordinierten Krisenmanagementübung LÜKEX 26 ein Szenario aus mehrjähriger Dürre und Hitzewelle. Erste Ergebnisse sollen im ersten Quartal 2027 vorliegen.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
    "id": "web-euobserver-feuerwehr-protest-bruessel-2026-11",
    "quelle": "web",
    "titel": "Feuerwehrleute aus 19 Ländern protestieren in Brüssel gegen Kürzungen beim EU-Katastrophenschutz",
@@ -82,6 +112,16 @@
    "kurzfassung": "EU-Kommissarin Hadja Lahbib stellte zum 25-jährigen Bestehen des EU-Katastrophenschutzverfahrens einen Plan zur Notfallvorsorge vor und schlug den 23. Oktober als Europäischen Tag der Krisenvorsorge vor. Schwerpunkte sind u. a. 72 Stunden Selbsthilfefähigkeit der Bevölkerung und Notfalltraining an Schulen.",
    "region": "international",
    "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-fwm-kirchhundem-brand-2026-11",
+   "quelle": "web",
+   "titel": "125 Einsatzkräfte bei Brand in Kirchhundem gefordert",
+   "datum": "2026-11-02T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/news/125-einsatzkraefte-bei-brand-in-kirchhundem-gefordert-145760",
+   "kurzfassung": "In Böminghausen (Kirchhundem, Kreis Olpe) brannten auf dem Gelände eines Land- und Forstmaschinenbetriebs drei Großfahrzeuge sowie eine Hackschnitzelheizung mit Bunker. Rund 125 Einsatzkräfte verhinderten mit einer Riegelstellung die Ausbreitung auf weitere Gebäudeteile.",
+   "region": "regional",
+   "kategorie": "Einsatz"
   },
   {
    "id": "web-eunews-eurobarometer-katastrophenschutz-2026-10",
