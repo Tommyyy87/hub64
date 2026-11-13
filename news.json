@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-12T06:49:55+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 12.11.2026, 06:49",
+ "abgerufen": "2026-11-13T06:49:32+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 13.11.2026, 06:49",
  "eintraege": [
+  {
+   "id": "web-fwm-ellerau-durchzuendung-2026-11",
+   "quelle": "web",
+   "titel": "Durchzündung und Einsturz: Feuerwehr bricht Innenangriff ab",
+   "datum": "2026-11-12T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/durchzuendung-und-einsturz-feuerwehr-bricht-innenangriff-ab-145849",
+   "kurzfassung": "Bei einem Brand in einer Möbeltischlerei in Ellerau (Kreis Segeberg) musste die Feuerwehr am 10. November nach einer Durchzündung und einem Teileinsturz den Innenangriff abbrechen. Rund 120 Einsatzkräfte waren beteiligt, verletzt wurde niemand.",
+   "region": "national",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-dfv-staab-gleichstellung-2026-11",
    "quelle": "web",
@@ -22,6 +32,16 @@
    "kurzfassung": "EU-Kommissarin Hadja Lahbib besucht Grönland, um die Zusammenarbeit bei der Katastrophenvorsorge in der Arktis zu vertiefen. Die EU verweist auf steigende Risiken wie Waldbrände, Erdrutsche, Tsunamis und Überflutungen durch Eisschmelze.",
    "region": "international",
    "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-fwm-herdecke-fahrrad-rettung-2026-11",
+   "quelle": "web",
+   "titel": "Radfahrer leiht Feuerwehr sein Fahrrad für Rettungseinsatz",
+   "datum": "2026-11-11T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/radfahrer-leiht-feuerwehr-sein-fahrrad-fuer-rettungseinsatz-145839",
+   "kurzfassung": "Am Hengsteysee in Herdecke überließ ein Radfahrer Einsatzkräften spontan sein Fahrrad, damit sie eine schwer verletzte 47-jährige Inlineskaterin auf einem für Fahrzeuge nicht befahrbaren Weg schneller erreichen konnten. Die Frau wurde anschließend rund 500 Meter mit einem Tragegestell zum Rettungswagen gebracht.",
+   "region": "regional",
+   "kategorie": "Einsatz"
   },
   {
    "id": "web-fwm-hannover-notfallinformationspunkte-2026-11",
@@ -72,6 +92,16 @@
    "kurzfassung": "Vier Angehörige der Feuerwehr Dinslaken nahmen vom 16. bis 26. Oktober 2026 an der WM der Firefighter Challenge League in Las Vegas teil; das Team belegte in der Fire-Department-Wertung Rang neun.",
    "region": "regional",
    "kategorie": "Feuerwehrsport"
+  },
+  {
+   "id": "web-fwm-boerde-ki-notruf-2026-11",
+   "quelle": "web",
+   "titel": "Landkreis Börde setzt KI zur Übersetzung fremdsprachiger Notrufe ein",
+   "datum": "2026-11-05T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/landkreis-boerde-setzt-ki-zur-uebersetzung-fremdsprachiger-notrufe-ein-145793",
+   "kurzfassung": "Die Integrierte Leitstelle des Landkreises Börde nutzt das System e*loquentia, das die Sprache fremdsprachiger Anrufer erkennt und Notrufgespräche in Echtzeit übersetzt. Die Verarbeitung läuft vollständig auf Servern des Kreises.",
+   "region": "national",
+   "kategorie": "Notruf"
   },
   {
    "id": "web-dfv-dfz-november-2026",
@@ -334,16 +364,6 @@
    "kategorie": "Technik"
   },
   {
-   "id": "web-dfv-keine-gewalt-2026-10",
-   "quelle": "web",
-   "titel": "Keine Gewalt gegen Einsatzkräfte",
-   "datum": "2026-10-08T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/keine-gewalt-gegen-einsatzkraefte/",
-   "kurzfassung": "Der Deutsche Feuerwehrverband stellt gemeinsam mit Feuerwehrversand und GroupAlarm in Berlin eine Notfalllösung vor. Gewalt gegen Einsatzkräfte tritt auch außerhalb von Einsätzen auf, etwa bei Brandsicherheitswachen und Veranstaltungen.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
    "id": "presseportal-6364272",
    "quelle": "presseportal",
    "titel": "FW-MH: Rauchmelder und Feuerschein in Speldorf - Feuerwehr löscht Zimmerbrand",
@@ -374,16 +394,6 @@
    "kategorie": "Einsatz"
   },
   {
-   "id": "web-dfv-nah-dran-2026-09",
-   "quelle": "web",
-   "titel": "Demokratisches Bewusstsein in die Bevölkerung bringen: Feuerwehrverbände bei der 15. „NAH DRAN“-Tagung",
-   "datum": "2026-09-23T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/demokratisches-bewusstsein-in-die-bevoelkerung-bringen-feuerwehrverbaende-bei-der-15-nah-dran-tagung-der-bundeszentrale-fuer-politische-bildung/",
-   "kurzfassung": "Der DFV und fünf Landesfeuerwehrverbände nahmen an einer Tagung der Bundeszentrale für politische Bildung zum Bundesprogramm „Zusammenhalt durch Teilhabe“ teil.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
    "id": "presseportal-6356374",
    "quelle": "presseportal",
    "titel": "FW-MH: Verkehrsunfall mit zwei verletzten Personen",
@@ -402,16 +412,6 @@
    "kurzfassung": "Beim Brand in einem Mehrfamilienhaus an der Otto-Brenner-Straße (Alarm 17:45 Uhr) rettete die Feuerwehr eine Person im ersten Obergeschoss über eine Steckleiter. Alle sechs Wohnungen wurden unbewohnbar.",
    "region": "regional",
    "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-dfv-praesidentenwahl-2026-10",
-   "quelle": "web",
-   "titel": "Neuwahl des DFV-Präsidenten und Bevölkerungsschutz im Blick",
-   "datum": "2026-09-16T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/neuwahl-des-dfv-praesidenten-und-bevoelkerungsschutz-im-blick/",
-   "kurzfassung": "Die 73. DFV-Delegiertenversammlung findet am 17. Oktober 2026 statt; dabei wird ein neuer Präsident gewählt, Bevölkerungsschutz steht im Fokus.",
-   "region": "national",
-   "kategorie": "Verband"
   },
   {
    "id": "presseportal-6353112",
