@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-14T06:49:42+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 14.11.2026, 06:49",
+ "abgerufen": "2026-11-15T06:54:40+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 15.11.2026, 06:54",
  "eintraege": [
+  {
+   "id": "web-mg-betreuungsplatz-uebung-2026-11",
+   "quelle": "web",
+   "titel": "Mönchengladbacher Hilfsorganisationen trainieren den Aufbau eines Betreuungsplatzes",
+   "datum": "2026-11-13T19:28:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6390377",
+   "kurzfassung": "ASB, DRK, Johanniter, Malteser und die Feuerwehr Mönchengladbach übten am 14. November den Aufbau und Betrieb eines Betreuungsplatzes für bis zu 500 Personen an einem vorgeplanten Schulstandort. 20 Darstellende spielten Betroffene, geübt wurden Registrierung, Betreuung, Versorgung und die Anfahrt im Verband.",
+   "region": "regional",
+   "kategorie": "Bevölkerungsschutz"
+  },
   {
    "id": "web-dfv-rauchmeldertag-umfrage-2026-11",
    "quelle": "web",
@@ -64,6 +74,16 @@
    "kategorie": "Einsatz"
   },
   {
+   "id": "web-fwm-weil-am-rhein-tiefgarage-2026-11",
+   "quelle": "web",
+   "titel": "Tiefgaragenbrand: Fünf Verletzte in Weil am Rhein",
+   "datum": "2026-11-11T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/tiefgaragenbrand-fuenf-verletzte-in-weil-am-rhein-145843",
+   "kurzfassung": "In der Tiefgarage eines Einkaufszentrums in Weil am Rhein brannten vier Pkw, fünf Menschen wurden leicht verletzt. Rund 130 Einsatzkräfte waren vor Ort; zur Entrauchung wurde ein Großlüfter der Berufsfeuerwehr Basel angefordert.",
+   "region": "national",
+   "kategorie": "Einsatz"
+  },
+  {
    "id": "web-fwm-hannover-notfallinformationspunkte-2026-11",
    "quelle": "web",
    "titel": "43 Notfallinformationspunkte erstmals zeitgleich aufgebaut",
@@ -72,6 +92,16 @@
    "kurzfassung": "Bei einer Übung am 7. November 2026 bauten in Hannover rund 500 Einsatzkräfte mit 110 Fahrzeugen erstmals alle 43 Notfallinformationspunkte gleichzeitig auf; simuliert wurde ein länger andauernder Stromausfall. Ab Mitte 2027 sollen die Punkte dauerhaft besetzt werden können.",
    "region": "national",
    "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "web-dortmund-hombruch-drehleiter-2026-11",
+   "quelle": "web",
+   "titel": "Wohnungsbrand in Dortmund-Hombruch: Feuerwehr rettet Bewohnerin über Drehleiter",
+   "datum": "2026-11-10T09:34:00+01:00",
+   "link": "https://www.dortmund.de/newsroom/presse-mitteilungen/wohnungsbrand-in-mehrfamilienhaus-in-dortmund-hombruch-feuerwehr-rettet-bewohnerin-ueber-drehleiter.html",
+   "kurzfassung": "Bei einem Brand im ersten Obergeschoss eines Mehrfamilienhauses in Dortmund-Hombruch rettete die Feuerwehr eine Bewohnerin, die sich auf einen äußeren Fenstersims geflüchtet hatte, mit der Drehleiter. Die Frau kam verletzt ins Krankenhaus, rund 40 Einsatzkräfte löschten das Feuer.",
+   "region": "regional",
+   "kategorie": "Einsatz"
   },
   {
    "id": "web-fwm-magirus-verkauf-morita-2026-11",
@@ -102,6 +132,26 @@
    "kurzfassung": "Laut der zweijährigen Studie SAGRE gehören Beleidigungen, Sachschäden und Behinderungen zu den häufigsten Übergriffen auf nichtpolizeiliche Einsatzkräfte. Viele Vorfälle werden nicht gemeldet, die Forschenden haben Handlungsempfehlungen erarbeitet.",
    "region": "national",
    "kategorie": "Einsatzkräfteschutz"
+  },
+  {
+   "id": "web-fwm-berlin-laufbahn-rettungsdienst-2026-11",
+   "quelle": "web",
+   "titel": "Eigene Beamtenlaufbahn für den Rettungsdienst gefordert",
+   "datum": "2026-11-06T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/eigene-beamtenlaufbahn-fuer-den-rettungsdienst-gefordert-145795",
+   "kurzfassung": "Die Deutsche Feuerwehr-Gewerkschaft Berlin-Brandenburg fordert einen eigenständigen Laufbahnzweig für den Rettungsdienst der Berliner Feuerwehr, auf den laut Gewerkschaft 91 Prozent der Einsätze entfallen. Bislang müssen Notfallsanitäter zusätzlich einen sechsmonatigen feuerwehrtechnischen Vorbereitungsdienst absolvieren.",
+   "region": "national",
+   "kategorie": "Rettungsdienst"
+  },
+  {
+   "id": "web-eu-el-nino-afrika-vorsorge-2026-11",
+   "quelle": "web",
+   "titel": "EU stellt 13,5 Mio. Euro für El-Niño-Vorsorge in Ost- und Südafrika bereit",
+   "datum": "2026-11-06T12:00:00+01:00",
+   "link": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-mobilises-eur135-million-help-communities-brace-el-nino-eastern-and-southern-africa-2026-11-06_en",
+   "kurzfassung": "Die EU finanziert vorausschauendes Handeln gegen die Folgen eines möglicherweise sehr starken El-Niño-Ereignisses 2026–2027, u. a. in Somalia, Kenia, Uganda und im südlichen Afrika. Im Fokus stehen Frühwarnung und Vorsorge, bevor Dürren und Wasserknappheit zur Katastrophe werden.",
+   "region": "international",
+   "kategorie": "Bevölkerungsschutz"
   },
   {
    "id": "web-fwm-dinslaken-firefighter-challenge-wm-2026-11",
@@ -304,46 +354,6 @@
    "kategorie": "Prävention"
   },
   {
-   "id": "web-dfv-bundesfachkongress-2026-10",
-   "quelle": "web",
-   "titel": "Ziele: Einsatzkräfte unterstützen, Bevölkerung ausbilden",
-   "datum": "2026-10-17T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/ziele-einsatzkraefte-unterstuetzen-bevoelkerung-ausbilden/",
-   "kurzfassung": "Beim DFV-Bundesfachkongress in Berlin diskutierten 130 Führungskräfte über Bevölkerungsschutz und Zivile Verteidigung, u. a. Ausbildung und Ausrüstung der Einsatzkräfte, Zusammenarbeit mit der Bundeswehr und den Pakt für den Bevölkerungsschutz. BBK-Präsidentin Grit Tüngler plädierte für eine besser vorbereitete und stärker eingebundene Bevölkerung.",
-   "region": "national",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-dfv-weltecke-praesident-2026-10",
-   "quelle": "web",
-   "titel": "Dr. Christoph Weltecke wird neuer DFV-Präsident",
-   "datum": "2026-10-17T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/dr-christoph-weltecke-wird-neuer-dfv-praesident/",
-   "kurzfassung": "Die 73. Delegiertenversammlung des Deutschen Feuerwehrverbands in Berlin hat Dr. Christoph Weltecke aus Korbach (Hessen) zum Nachfolger von Karl-Heinz Banse gewählt.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
-   "id": "web-dfv-co-macht-ko-2026-10",
-   "quelle": "web",
-   "titel": "Kostenloses Kampagnenmaterial von „CO macht K.O.“",
-   "datum": "2026-10-15T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/kostenloses-kampagnenmaterial-von-co-macht-k-o/",
-   "kurzfassung": "Die Initiative „CO macht K.O.“, der der DFV angehört, stellt Feuerwehren kostenlos Material gegen Kohlenmonoxid-Vergiftungen bereit (Pressemitteilung, Social-Media-Motive, Infoblätter). Die Aktionswoche zur Zeitumstellung beginnt am 25.10.2026.",
-   "region": "national",
-   "kategorie": "Prävention"
-  },
-  {
-   "id": "web-ctif-hazmat-rotterdam-2026-10",
-   "quelle": "web",
-   "titel": "CTIF-Hazmat-Kommission tagte im Mai 2026 in Rotterdam zu CBRN-Herausforderungen",
-   "datum": "2026-10-14T12:00:00+02:00",
-   "link": "https://www.ctif.org/news/ctif-hazmat-commission-met-rotterdam-may-2026-address-emerging-cbrn-and-hazardous-materials",
-   "kurzfassung": "Die CTIF-Kommission befasste sich in Rotterdam mit neuen Herausforderungen bei CBRN- und Gefahrstofflagen.",
-   "region": "international",
-   "kategorie": "Fachkongress"
-  },
-  {
    "id": "presseportal-6371278",
    "quelle": "presseportal",
    "titel": "FW-MH: Alleinunfall auf der BAB 40",
@@ -352,16 +362,6 @@
    "kurzfassung": "Auf der BAB 40 Richtung Essen hinter der Anschlussstelle Styrum fuhr ein Pkw nach einem medizinischen Notfall des Fahrers gegen die Mittelleitplanke. Der Fahrer kam ins Krankenhaus, die Autobahn war etwa eine halbe Stunde voll gesperrt.",
    "region": "regional",
    "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-dfv-notfallreform-forderungen-2026-10",
-   "quelle": "web",
-   "titel": "Hilfsorganisationen und Feuerwehren bekräftigen Forderungen zur Notfallreform",
-   "datum": "2026-10-13T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/anerkannte-hilfs-und-beauftragte-luftrettungsorganisationen-und-feuerwehren-bekraeftigen-ihre-forderungen-bezueglich-geplanter-notfallreform/",
-   "kurzfassung": "Acht Hilfs- und Luftrettungsorganisationen sowie Feuerwehrverbände forderten am 13.10.2026 am Brandenburger Tor in Berlin vor der 2./3. Lesung im Bundestag Korrekturen an der Notfallreform. Verlangt werden klare gesetzliche Finanzierungsregeln für die Notfallrettung und ein Stimmrecht im geplanten bundesweiten Fachgremium.",
-   "region": "national",
-   "kategorie": "Rettungsdienst"
   },
   {
    "id": "presseportal-6364272",
