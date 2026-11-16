@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-15T06:54:40+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 15.11.2026, 06:54",
+ "abgerufen": "2026-11-16T06:50:41+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 16.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-indonesien-waldbrand-haze-2026-11",
+   "quelle": "web",
+   "titel": "Indonesien entschuldigt sich bei Malaysia und Singapur für Waldbrand-Smog",
+   "datum": "2026-11-16T00:00:00+01:00",
+   "link": "https://www.philstar.com/world/2026/11/16/2570486/indonesia-apologises-malaysia-singapore-over-wildfire-haze",
+   "kurzfassung": "Präsident Prabowo Subianto entschuldigte sich beim ASEAN-Gipfel in Manila für den monatelangen Rauch aus Waldbränden auf Borneo, Sumatra und Papua. 2026 brannten in Indonesien rund 2,88 Mio. Hektar; 71.000 Kräfte waren im Einsatz, 16 Feuerwehrleute kamen ums Leben (Quelle: AFP).",
+   "region": "international",
+   "kategorie": "Waldbrand"
+  },
+  {
+   "id": "presseportal-6390814",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Feuerwehr Mülheim unterstützt Erkrath mit Spezialkräften bei Trinkwassernotlage",
+   "datum": "2026-11-15T13:48:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6390814",
+   "kurzfassung": "Nach dem Bruch einer Hauptwasserleitung in Erkrath unterstützte die Feuerwehr Mülheim am 14. November mit Fachberatern, dem Schnelleinsatzsystem Kritische Infrastrukturen Wasser (SES KRITIS W) und 18 Einsatzkräften von Berufs- und Freiwilliger Feuerwehr. Gemeinsam mit Feuerwehr Erkrath, Wasserversorger und THW wurden rund 120.000 Liter Trinkwasser aus Hilden zu einem Hochbehälter transportiert.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-mg-betreuungsplatz-uebung-2026-11",
    "quelle": "web",
@@ -42,6 +62,16 @@
    "kurzfassung": "Bei einem Brand in einer Möbeltischlerei in Ellerau (Kreis Segeberg) musste die Feuerwehr am 10. November nach einer Durchzündung und einem Teileinsturz den Innenangriff abbrechen. Rund 120 Einsatzkräfte waren beteiligt, verletzt wurde niemand.",
    "region": "national",
    "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-fwm-leinzell-feuerwehrhelfer-2026-11",
+   "quelle": "web",
+   "titel": "Feuerwehr Leinzell: Neun Helfer nach 15 Stunden Ausbildung bereit",
+   "datum": "2026-11-12T00:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehr-leinzell-neun-helfer-nach-15-stunden-ausbildung-bereit-145864",
+   "kurzfassung": "Neun Bürgerinnen und Bürger aus dem Ostalbkreis sind nach einer 15-stündigen Ausbildung als Feuerwehrhelfer der Feuerwehr Leinzell einsatzbereit; sie unterstützen bei Großschadenslagen außerhalb von Gefahrenbereichen. Das Pilotprojekt entstand nach dem Hochwasser im Juni 2024.",
+   "region": "national",
+   "kategorie": "Ehrenamt"
   },
   {
    "id": "web-dfv-staab-gleichstellung-2026-11",
@@ -332,26 +362,6 @@
    "kurzfassung": "Die öffentlichen Versicherer und der Deutsche Feuerwehrverband haben den IF Star zum neunten Mal an Feuerwehren mit innovativen Ideen verliehen.",
    "region": "national",
    "kategorie": "Verband"
-  },
-  {
-   "id": "web-dfv-bevoelkerungsschutz-resilienz-2026-10",
-   "quelle": "web",
-   "titel": "Bevölkerungsschutz, Resilienz und Zusammenarbeit",
-   "datum": "2026-10-19T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/bevoelkerungsschutz-resilienz-und-zusammenarbeit/",
-   "kurzfassung": "Bei der 73. DFV-Delegiertenversammlung in Berlin betonte DFV-Präsident Karl-Heinz Banse, dass Krisen nur mit starken Partnern bewältigt werden können.",
-   "region": "national",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-dfv-brandverletztes-kind-2026-10",
-   "quelle": "web",
-   "titel": "„Kurz berührt – lang gespürt“: Tag des brandverletzten Kindes 2026",
-   "datum": "2026-10-19T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/kurz-beruehrt-lang-gespuert-tag-des-brandverletzten-kindes-2026/",
-   "kurzfassung": "Der Aktionstag am 7. Dezember 2026 widmet sich Kontaktverbrennungen an heißen Flächen wie Herdplatten, Bügeleisen und Heizkörpern; Kliniken, Kitas und Feuerwehren können sich als Aktionspartner anmelden. Gutes Thema für die Brandschutzerziehung.",
-   "region": "national",
-   "kategorie": "Prävention"
   },
   {
    "id": "presseportal-6371278",
