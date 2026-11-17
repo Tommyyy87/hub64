@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-16T06:50:41+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 16.11.2026, 06:50",
+ "abgerufen": "2026-11-17T06:50:15+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 17.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-fwm-dachau-fettbrand-einkaufszentrum-2026-11",
+   "quelle": "web",
+   "titel": "Fettbrand im Einkaufszentrum: Feuerwehr muss Blechdach aufreißen",
+   "datum": "2026-11-16T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/fettbrand-im-einkaufszentrum-feuerwehr-muss-blechdach-aufreissen-145915",
+   "kurzfassung": "Ein Fettbrand in einer Restaurantküche eines Dachauer Einkaufszentrums breitete sich am 13. November in die Dachkonstruktion aus; mehr als 180 Einsatzkräfte waren rund zwölf Stunden im Einsatz und mussten das Blechdach mit Greifbagger und Kran öffnen. Eine Person erlitt schwere Verbrennungen. Präventionstipp: Fettbrand nie mit Wasser löschen – Deckel drauf, Herd aus.",
+   "region": "national",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-indonesien-waldbrand-haze-2026-11",
    "quelle": "web",
@@ -72,6 +82,16 @@
    "kurzfassung": "Neun Bürgerinnen und Bürger aus dem Ostalbkreis sind nach einer 15-stündigen Ausbildung als Feuerwehrhelfer der Feuerwehr Leinzell einsatzbereit; sie unterstützen bei Großschadenslagen außerhalb von Gefahrenbereichen. Das Pilotprojekt entstand nach dem Hochwasser im Juni 2024.",
    "region": "national",
    "kategorie": "Ehrenamt"
+  },
+  {
+   "id": "web-sturmtief-charles-portugal-spanien-2026-11",
+   "quelle": "web",
+   "titel": "Sturmtief „Charles“ hält Einsatzkräfte in Portugal und Spanien auf Trab",
+   "datum": "2026-11-11T17:15:00+01:00",
+   "link": "https://www.volksstimme.de/panorama/sturmtief-charles-halt-einsatzkrafte-in-portugal-auf-trab-4354332",
+   "kurzfassung": "Sturmtief „Charles“ löste auf dem portugiesischen Festland über 500 und auf Madeira fast 300 Einsätze aus, 360 Flüge fielen aus. In Spanien wurden in Piedralaves (Ávila) rund 2.200 Menschen evakuiert.",
+   "region": "international",
+   "kategorie": "Unwetter"
   },
   {
    "id": "web-dfv-staab-gleichstellung-2026-11",
@@ -342,26 +362,6 @@
    "kurzfassung": "Der DFV ruft Kommunen, Feuerwehren, Leitstellen und Sicherheitsbehörden auf, ihre IT-Systeme auf die PHP-Lücke „PHP2Shell“ zu prüfen und betroffene Anwendungen zu aktualisieren oder vorübergehend abzuschalten.",
    "region": "national",
    "kategorie": "Technik"
-  },
-  {
-   "id": "web-dfv-lieferantenverzeichnis-2026-10",
-   "quelle": "web",
-   "titel": "Lieferantenverzeichnis des Mittelstands",
-   "datum": "2026-10-21T11:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/lieferantenverzeichnis-des-mittelstands/",
-   "kurzfassung": "Über eine Kooperation mit dem BVMW können Feuerwehren ein webbasiertes Verzeichnis nutzen, um mittelständische Unternehmen nach Geschäftsfeld und Region zu finden.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
-   "id": "web-dfv-if-star-2026-10",
-   "quelle": "web",
-   "titel": "Der IF Star 2026 geht an zwei Freiwillige Feuerwehren und einen Kreisfeuerwehrverband",
-   "datum": "2026-10-19T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/der-if-star-2026-geht-an-zwei-freiwillige-feuerwehren-und-einen-kreisfeuerwehrverband/",
-   "kurzfassung": "Die öffentlichen Versicherer und der Deutsche Feuerwehrverband haben den IF Star zum neunten Mal an Feuerwehren mit innovativen Ideen verliehen.",
-   "region": "national",
-   "kategorie": "Verband"
   },
   {
    "id": "presseportal-6371278",
