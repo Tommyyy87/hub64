@@ -1,8 +1,38 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-17T06:50:15+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 17.11.2026, 06:50",
+ "abgerufen": "2026-11-18T06:50:01+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 18.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-dfv-forum-brandschutzerziehung-berlin-2026-11",
+   "quelle": "web",
+   "titel": "360 Fachleute tauschten sich in Berlin über Brandschutzerziehung und Selbsthilfe aus",
+   "datum": "2026-11-17T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/360-fachleute-tauschten-sich-in-berlin-ueber-brandschutzerziehung-und-selbsthilfe-aus/",
+   "kurzfassung": "Beim Forum Brandschutzerziehung und Brandschutzaufklärung 2026 von DFV und vfdb diskutierten in Berlin 360 Teilnehmende aus dem In- und Ausland über Prävention, Selbsthilfe und Bevölkerungsschutz. Anlass war das 175-jährige Jubiläum der Berliner Feuerwehr; zudem wurde eine neue Ausschussleitung gewählt.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-fwm-altena-metallbrand-2026-11",
+   "quelle": "web",
+   "titel": "Metallbrand: Brandbekämpfung mit Wasser nicht möglich",
+   "datum": "2026-11-17T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/metallbrand-brandbekaempfung-mit-wasser-nicht-moeglich-145929",
+   "kurzfassung": "In einem metallverarbeitenden Betrieb in Altena (Märkischer Kreis) brannten zwei Elemente einer Filteranlage mit Metallspänen; da kein Wasser eingesetzt werden konnte, wurde die Anlage teilweise zerlegt und das glühende Material unter Atemschutz entfernt. Rund 75 Einsatzkräfte waren im Einsatz, ein angrenzendes Mehrparteienhaus wurde vorsorglich geräumt.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-dfv-wiener-feuerwehrmuseum-125-2026-11",
+   "quelle": "web",
+   "titel": "Festakt anlässlich des 125-jährigen Jubiläums des Wiener Feuerwehrmuseums",
+   "datum": "2026-11-17T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/festakt-anlaesslich-des-125-jaehrigen-jubilaeums-des-wiener-feuerwehrmuseums/",
+   "kurzfassung": "Beim Festakt zum 125-jährigen Bestehen des Wiener Feuerwehrmuseums überreichte DFV-Fachbereichsleiter Bernd Klaedtke den DFV-Feuerbären; Heinrich Krenn erhielt das Deutsche Feuerwehr-Ehrenkreuz in Bronze. Exponate aus Wien trugen einst zur Gründung der ersten deutschen Feuerwehrmuseen bei.",
+   "region": "international",
+   "kategorie": "Verband"
+  },
   {
    "id": "web-fwm-dachau-fettbrand-einkaufszentrum-2026-11",
    "quelle": "web",
@@ -332,36 +362,6 @@
    "kurzfassung": "Am Nachmittag und Abend des 23.10.2026 gab es im Stadtgebiet mehr als 30 unwetterbedingte Hilfeleistungseinsätze, u. a. wegen umgestürzter Bäume, abgebrochener Äste und defekter Ampeln. Es entstanden nur Sachschäden; der Löschzug Mülheim-Heißen unterstützte spontan an seinem Übungsabend.",
    "region": "regional",
    "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-dfv-co-melder-zeitumstellung-2026-10",
-   "quelle": "web",
-   "titel": "Zeitumstellung: Heizung an. CO-Melder auch?",
-   "datum": "2026-10-23T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/zeitumstellung-heizung-an-co-melder-auch/",
-   "kurzfassung": "Die Initiative „CO macht K.O.“ ruft dazu auf, zur Zeitumstellung und zu Beginn der Heizperiode die Kohlenmonoxid-Melder im Haushalt zu prüfen.",
-   "region": "national",
-   "kategorie": "Prävention"
-  },
-  {
-   "id": "web-dfv-umfrage-strassenraum-2026-10",
-   "quelle": "web",
-   "titel": "Umfrage: Feuerwehr im Straßenraum",
-   "datum": "2026-10-23T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/umfrage-feuerwehr-im-strassenraum/",
-   "kurzfassung": "Eine Umfrage unter Berufsfeuerwehrleuten untersucht, wie sich die Verkehrssituation auf Einsatzfahrten auswirkt.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
-   "id": "web-dfv-it-sicherheitsluecke-2026-10",
-   "quelle": "web",
-   "titel": "Kritische IT-Sicherheitslücken: DFV fordert Kommunen und BOS zur sofortigen Prüfung ihrer Systeme auf",
-   "datum": "2026-10-21T12:00:00+02:00",
-   "link": "https://www.feuerwehrverband.de/kritische-it-sicherheitsluecken-dfv-fordert-kommunen-und-bos-zur-sofortigen-pruefung-ihrer-systeme-auf/",
-   "kurzfassung": "Der DFV ruft Kommunen, Feuerwehren, Leitstellen und Sicherheitsbehörden auf, ihre IT-Systeme auf die PHP-Lücke „PHP2Shell“ zu prüfen und betroffene Anwendungen zu aktualisieren oder vorübergehend abzuschalten.",
-   "region": "national",
-   "kategorie": "Technik"
   },
   {
    "id": "presseportal-6371278",
