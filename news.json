@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-18T06:50:01+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 18.11.2026, 06:50",
+ "abgerufen": "2026-11-19T06:50:28+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 19.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-fwm-essen-loeschfahrzeug-unfall-2026-11",
+   "quelle": "web",
+   "titel": "Löschfahrzeug kollidiert mit Pkw – Frau schwer verletzt",
+   "datum": "2026-11-18T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/loeschfahrzeug-kollidiert-mit-pkw-frau-schwer-verletzt-145940",
+   "kurzfassung": "In Essen-Westviertel stieß ein Löschfahrzeug der Berufsfeuerwehr auf der Einsatzfahrt zu einem Kaminbrand an der Kreuzung Hans-Böckler-Straße/Altendorfer Straße seitlich mit einem Pkw zusammen; die eingeschlossene Fahrerin wurde schwer verletzt befreit. Die fünf Feuerwehrleute blieben unverletzt.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-dfv-forum-brandschutzerziehung-berlin-2026-11",
    "quelle": "web",
@@ -34,6 +44,16 @@
    "kategorie": "Verband"
   },
   {
+   "id": "web-fwm-bundeswehr-giss-interview-2026-11",
+   "quelle": "web",
+   "titel": "Warum Feuerwehren für die Bundeswehr wichtig sind",
+   "datum": "2026-11-17T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/warum-feuerwehren-fuer-die-bundeswehr-wichtig-sind-145934",
+   "kurzfassung": "Kapitän zur See Michael Giss, Kommandeur des Landeskommandos Baden-Württemberg, sieht die Feuerwehren wegen ihrer Fläche, Fähigkeiten und örtlichen Verankerung als zentral für den Schutz kritischer Infrastruktur. Er fordert gemeinsame Lagebilder, Schutzkonzepte und Übungen von Militär und zivilen Behörden.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
    "id": "web-fwm-dachau-fettbrand-einkaufszentrum-2026-11",
    "quelle": "web",
    "titel": "Fettbrand im Einkaufszentrum: Feuerwehr muss Blechdach aufreißen",
@@ -42,6 +62,16 @@
    "kurzfassung": "Ein Fettbrand in einer Restaurantküche eines Dachauer Einkaufszentrums breitete sich am 13. November in die Dachkonstruktion aus; mehr als 180 Einsatzkräfte waren rund zwölf Stunden im Einsatz und mussten das Blechdach mit Greifbagger und Kran öffnen. Eine Person erlitt schwere Verbrennungen. Präventionstipp: Fettbrand nie mit Wasser löschen – Deckel drauf, Herd aus.",
    "region": "national",
    "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-fwm-foehr-tlf-ukraine-2026-11",
+   "quelle": "web",
+   "titel": "„Hauke“ von Föhr soll zerstörtes Löschfahrzeug in der Ukraine ersetzen",
+   "datum": "2026-11-16T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/hauke-von-foehr-soll-zerstoertes-loeschfahrzeug-ersetzen-145875",
+   "kurzfassung": "Ein Hilfsverein hat das 33 Jahre alte Tanklöschfahrzeug der FF Utersum-Dunsum-Hedehusum ersteigert, um in Zirkuny bei Charkiw ein durch eine Drohne zerstörtes Löschfahrzeug zu ersetzen; die Überführung ist für Dezember geplant. Die Föhrer Wehr spendete zusätzlich Schutzausrüstung und Armaturen.",
+   "region": "international",
+   "kategorie": "Hilfe"
   },
   {
    "id": "web-indonesien-waldbrand-haze-2026-11",
@@ -62,6 +92,16 @@
    "kurzfassung": "Nach dem Bruch einer Hauptwasserleitung in Erkrath unterstützte die Feuerwehr Mülheim am 14. November mit Fachberatern, dem Schnelleinsatzsystem Kritische Infrastrukturen Wasser (SES KRITIS W) und 18 Einsatzkräften von Berufs- und Freiwilliger Feuerwehr. Gemeinsam mit Feuerwehr Erkrath, Wasserversorger und THW wurden rund 120.000 Liter Trinkwasser aus Hilden zu einem Hochbehälter transportiert.",
    "region": "regional",
    "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-bonn-waldbrand-tlf-2026-11",
+   "quelle": "web",
+   "titel": "Feuerwehr Bonn stellt neues Waldbrand-Tanklöschfahrzeug in Dienst",
+   "datum": "2026-11-14T12:00:00+01:00",
+   "link": "https://www.bonn.de/pressemitteilungen/november-2026/feuerwehr-bonn-stellt-neues-waldbrand-tankloeschfahrzeug-in-dienst.php",
+   "kurzfassung": "Die Feuerwehr Bonn hat das erste von acht landesfinanzierten Waldbrand-Tanklöschfahrzeugen (rund 3.000 Liter Wasser) bei einer Übung im Ennert eingeweiht. Ab Dezember fährt es im regulären Dienst und kann von anderen NRW-Kommunen sowie für das EU-Waldbrandmodul angefordert werden.",
+   "region": "regional",
+   "kategorie": "Technik"
   },
   {
    "id": "web-mg-betreuungsplatz-uebung-2026-11",
@@ -272,46 +312,6 @@
    "kurzfassung": "Vom 4. bis 6. November übten rund 180 Organisationen in der vom BBK koordinierten Krisenmanagementübung LÜKEX 26 ein Szenario aus mehrjähriger Dürre und Hitzewelle. Erste Ergebnisse sollen im ersten Quartal 2027 vorliegen.",
    "region": "national",
    "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-euobserver-feuerwehr-protest-bruessel-2026-11",
-   "quelle": "web",
-   "titel": "Feuerwehrleute aus 19 Ländern protestieren in Brüssel gegen Kürzungen beim EU-Katastrophenschutz",
-   "datum": "2026-11-03T12:00:00+01:00",
-   "link": "https://euobserver.com/246651/firefighters-from-19-countries-protest-eu-disaster-budget-cuts-in-brussels/",
-   "kurzfassung": "Rund 1.000 Feuerwehrleute aus 19 Ländern forderten in Brüssel vor den EU-Haushaltsverhandlungen mehr Ausrüstung und Personal. Die irische Ratspräsidentschaft schlägt für Katastrophenmanagement knapp 7 Mrd. Euro statt der von der Kommission beantragten mehr als 10 Mrd. Euro vor.",
-   "region": "international",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-eunews-lahbib-krisenvorsorge-2026-11",
-   "quelle": "web",
-   "titel": "Lahbib: „Kein Land soll eine Krise allein bewältigen müssen“ – EU-Leitlinien zur Krisenvorsorge",
-   "datum": "2026-11-03T12:00:00+01:00",
-   "link": "https://www.eunews.it/en/2026/11/03/lahbib-no-country-should-have-to-face-a-crisis-alone-eu-guidelines/",
-   "kurzfassung": "EU-Kommissarin Hadja Lahbib stellte zum 25-jährigen Bestehen des EU-Katastrophenschutzverfahrens einen Plan zur Notfallvorsorge vor und schlug den 23. Oktober als Europäischen Tag der Krisenvorsorge vor. Schwerpunkte sind u. a. 72 Stunden Selbsthilfefähigkeit der Bevölkerung und Notfalltraining an Schulen.",
-   "region": "international",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-fwm-kirchhundem-brand-2026-11",
-   "quelle": "web",
-   "titel": "125 Einsatzkräfte bei Brand in Kirchhundem gefordert",
-   "datum": "2026-11-02T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/news/125-einsatzkraefte-bei-brand-in-kirchhundem-gefordert-145760",
-   "kurzfassung": "In Böminghausen (Kirchhundem, Kreis Olpe) brannten auf dem Gelände eines Land- und Forstmaschinenbetriebs drei Großfahrzeuge sowie eine Hackschnitzelheizung mit Bunker. Rund 125 Einsatzkräfte verhinderten mit einer Riegelstellung die Ausbreitung auf weitere Gebäudeteile.",
-   "region": "regional",
-   "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-eunews-eurobarometer-katastrophenschutz-2026-10",
-   "quelle": "web",
-   "titel": "Eurobarometer: Neun von zehn Europäern für stärkere EU-Koordination im Notfall",
-   "datum": "2026-10-30T12:00:00+01:00",
-   "link": "https://www.eunews.it/en/2026/10/30/nine-out-of-ten-europeans-back-greater-eu-coordination-during-emergencies/",
-   "kurzfassung": "Laut Spezial-Eurobarometer halten neun von zehn Europäern die EU-Koordination bei Katastrophen für wichtig, 94 % befürworten gegenseitige Hilfe der Mitgliedstaaten. Bis 7. Oktober 2026 waren in der EU über 692.000 Hektar verbrannt – fast das Doppelte des 20-Jahres-Mittels.",
-   "region": "international",
-   "kategorie": "Waldbrand"
   },
   {
    "id": "presseportal-6379713",
