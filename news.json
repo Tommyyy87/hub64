@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-19T06:50:28+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 19.11.2026, 06:50",
+ "abgerufen": "2026-11-20T06:50:20+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 20.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-dfv-kita-brandschutz-evakuierung-2026-11",
+   "quelle": "web",
+   "titel": "Richtiges Verhalten bei Bränden in Kindertagesstätten trainieren",
+   "datum": "2026-11-19T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/richtiges-verhalten-bei-braenden-in-kindertagesstaetten-trainieren/",
+   "kurzfassung": "Die DGUV beschreibt in ihrer Zeitschrift „KinderKinder“ bauliche, organisatorische und technische Brandschutzmaßnahmen für Kitas sowie Unterweisungen, kindgerechte Verhaltensregeln und regelmäßige Evakuierungsübungen; der DFV verweist auf die Fachempfehlung „Evakuierungsübungen“ von DFV und vfdb. Gut geeignet als Anknüpfung für die Brandschutzerziehung in Kitas.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-fwm-rlp-dankespraemie-2026-11",
+   "quelle": "web",
+   "titel": "Rheinland-Pfalz plant Dankesprämie für Feuerwehrleute",
+   "datum": "2026-11-19T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/rheinland-pfalz-plant-dankespraemie-fuer-feuerwehrleute-145970",
+   "kurzfassung": "Das rheinland-pfälzische Kabinett plant im Entwurf des Doppelhaushalts 2027/2028 jährlich 1,3 Millionen Euro für eine Dankesprämie für langjährig engagierte Feuerwehrleute ein. Zudem sollen die Zulagen für Feuerwehr-Einsatzkräfte und Polizei zum 1. Juli 2028 steigen.",
+   "region": "national",
+   "kategorie": "Ehrenamt"
+  },
   {
    "id": "web-fwm-essen-loeschfahrzeug-unfall-2026-11",
    "quelle": "web",
@@ -12,6 +32,16 @@
    "kurzfassung": "In Essen-Westviertel stieß ein Löschfahrzeug der Berufsfeuerwehr auf der Einsatzfahrt zu einem Kaminbrand an der Kreuzung Hans-Böckler-Straße/Altendorfer Straße seitlich mit einem Pkw zusammen; die eingeschlossene Fahrerin wurde schwer verletzt befreit. Die fünf Feuerwehrleute blieben unverletzt.",
    "region": "regional",
    "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-fwm-gw-taucher-hamburg-luebeck-2026-11",
+   "quelle": "web",
+   "titel": "Groß an der Elbe, kompakt an der Trave: neue Taucher-Gerätewagen",
+   "datum": "2026-11-18T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/gross-an-der-elbe-kompakt-an-der-trave-145954",
+   "kurzfassung": "Die Berufsfeuerwehren Hamburg und Lübeck haben 2026 neue Gerätewagen für ihre Tauchergruppen in Dienst gestellt – in Hamburg ein großer MAN mit Seilwinde, in Lübeck ein kompakter Iveco Daily für Wasser- und Eisrettung.",
+   "region": "national",
+   "kategorie": "Technik"
   },
   {
    "id": "web-dfv-forum-brandschutzerziehung-berlin-2026-11",
@@ -282,36 +312,6 @@
    "kurzfassung": "Vier Angehörige der Feuerwehr Dinslaken nahmen vom 16. bis 26. Oktober 2026 an der WM der Firefighter Challenge League in Las Vegas teil; das Team belegte in der Fire-Department-Wertung Rang neun.",
    "region": "regional",
    "kategorie": "Feuerwehrsport"
-  },
-  {
-   "id": "web-fwm-boerde-ki-notruf-2026-11",
-   "quelle": "web",
-   "titel": "Landkreis Börde setzt KI zur Übersetzung fremdsprachiger Notrufe ein",
-   "datum": "2026-11-05T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/landkreis-boerde-setzt-ki-zur-uebersetzung-fremdsprachiger-notrufe-ein-145793",
-   "kurzfassung": "Die Integrierte Leitstelle des Landkreises Börde nutzt das System e*loquentia, das die Sprache fremdsprachiger Anrufer erkennt und Notrufgespräche in Echtzeit übersetzt. Die Verarbeitung läuft vollständig auf Servern des Kreises.",
-   "region": "national",
-   "kategorie": "Notruf"
-  },
-  {
-   "id": "web-dfv-dfz-november-2026",
-   "quelle": "web",
-   "titel": "Deutsche Feuerwehr-Zeitung November 2026",
-   "datum": "2026-11-04T12:00:00+01:00",
-   "link": "https://www.feuerwehrverband.de/deutsche-feuerwehr-zeitung-november-2026/",
-   "kurzfassung": "Die November-Ausgabe der DFZ behandelt die Wahl von Dr. Christoph Weltecke zum neuen DFV-Präsidenten, die 73. Delegiertenversammlung, den IF Star 2026 und den 14. DFV-Bundesfachkongress. Weitere Themen sind die Aktion zur Notfallreform und die DFV-Forderung nach Wohnraum für ehrenamtliche Feuerwehrangehörige.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
-   "id": "web-fwm-luekex26-hitze-duerre-2026-11",
-   "quelle": "web",
-   "titel": "Extreme Hitze und Dürre: Fast 180 Organisationen proben den Krisenfall (LÜKEX 26)",
-   "datum": "2026-11-04T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/extreme-hitze-und-duerre-fast-180-organisationen-proben-den-krisenfall-145780",
-   "kurzfassung": "Vom 4. bis 6. November übten rund 180 Organisationen in der vom BBK koordinierten Krisenmanagementübung LÜKEX 26 ein Szenario aus mehrjähriger Dürre und Hitzewelle. Erste Ergebnisse sollen im ersten Quartal 2027 vorliegen.",
-   "region": "national",
-   "kategorie": "Bevölkerungsschutz"
   },
   {
    "id": "presseportal-6379713",
