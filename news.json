@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-20T06:50:20+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 20.11.2026, 06:50",
+ "abgerufen": "2026-11-21T06:50:39+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 21.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-fwm-koeln-riegelstellung-pkw-2026-11",
+   "quelle": "web",
+   "titel": "Riegelstellung verhindert Übergreifen auf angrenzendes Wohnhaus",
+   "datum": "2026-11-20T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/riegelstellung-verhindert-uebergreifen-auf-angrenzendes-wohnhaus-145983",
+   "kurzfassung": "In Köln-Sülz (Berrenrather Straße) verhinderte die Feuerwehr mit einer Riegelstellung, dass ein brennender Pkw auf ein angrenzendes Wohnhaus übergriff; das Haus blieb unbeschädigt. Rund 25 Einsatzkräfte waren beteiligt.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "presseportal-6394324",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Lkw auf der Alexanderstraße umgestürzt - Fahrer aus Fahrerkabine befreit",
+   "datum": "2026-11-20T07:56:59+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6394324",
+   "kurzfassung": "Am frühen Freitagmorgen (Alarm 04:02 Uhr) kippte auf der Alexanderstraße in Heißen ein Lkw auf die Seite; der eingeschlossene Fahrer wurde über die Windschutzscheibe befreit und vom Rettungsdienst in ein Mülheimer Krankenhaus gebracht. Die Feuerwehr band zudem großflächig ausgelaufenes Motoröl ab.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-dfv-kita-brandschutz-evakuierung-2026-11",
    "quelle": "web",
@@ -22,6 +42,16 @@
    "kurzfassung": "Das rheinland-pfälzische Kabinett plant im Entwurf des Doppelhaushalts 2027/2028 jährlich 1,3 Millionen Euro für eine Dankesprämie für langjährig engagierte Feuerwehrleute ein. Zudem sollen die Zulagen für Feuerwehr-Einsatzkräfte und Polizei zum 1. Juli 2028 steigen.",
    "region": "national",
    "kategorie": "Ehrenamt"
+  },
+  {
+   "id": "web-fwm-wedel-lagerhalle-drohne-2026-11",
+   "quelle": "web",
+   "titel": "Großbrand in Lagerhalle: Glutnester unter abgehängter Decke",
+   "datum": "2026-11-19T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/grossbrand-in-lagerhalle-glutnester-unter-abgehaengter-decke-145963",
+   "kurzfassung": "Die Feuerwehr Wedel (Kreis Pinneberg) bekämpfte in der Nacht zu Mittwoch einen Großbrand in einer leerstehenden Lagerhalle; bei den Nachlöscharbeiten half eine Drohne mit Wärmebildkamera, Glutnester unter einer abgehängten Decke zu finden. Verletzt wurde niemand.",
+   "region": "national",
+   "kategorie": "Technik"
   },
   {
    "id": "web-fwm-essen-loeschfahrzeug-unfall-2026-11",
@@ -292,26 +322,6 @@
    "kurzfassung": "Die Deutsche Feuerwehr-Gewerkschaft Berlin-Brandenburg fordert einen eigenständigen Laufbahnzweig für den Rettungsdienst der Berliner Feuerwehr, auf den laut Gewerkschaft 91 Prozent der Einsätze entfallen. Bislang müssen Notfallsanitäter zusätzlich einen sechsmonatigen feuerwehrtechnischen Vorbereitungsdienst absolvieren.",
    "region": "national",
    "kategorie": "Rettungsdienst"
-  },
-  {
-   "id": "web-eu-el-nino-afrika-vorsorge-2026-11",
-   "quelle": "web",
-   "titel": "EU stellt 13,5 Mio. Euro für El-Niño-Vorsorge in Ost- und Südafrika bereit",
-   "datum": "2026-11-06T12:00:00+01:00",
-   "link": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-mobilises-eur135-million-help-communities-brace-el-nino-eastern-and-southern-africa-2026-11-06_en",
-   "kurzfassung": "Die EU finanziert vorausschauendes Handeln gegen die Folgen eines möglicherweise sehr starken El-Niño-Ereignisses 2026–2027, u. a. in Somalia, Kenia, Uganda und im südlichen Afrika. Im Fokus stehen Frühwarnung und Vorsorge, bevor Dürren und Wasserknappheit zur Katastrophe werden.",
-   "region": "international",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-fwm-dinslaken-firefighter-challenge-wm-2026-11",
-   "quelle": "web",
-   "titel": "Dinslakener Feuerwehrsportler schaffen Sprung in die Weltspitze",
-   "datum": "2026-11-05T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/dinslakener-feuerwehrsportler-schaffen-sprung-in-die-weltspitze-145785",
-   "kurzfassung": "Vier Angehörige der Feuerwehr Dinslaken nahmen vom 16. bis 26. Oktober 2026 an der WM der Firefighter Challenge League in Las Vegas teil; das Team belegte in der Fire-Department-Wertung Rang neun.",
-   "region": "regional",
-   "kategorie": "Feuerwehrsport"
   },
   {
    "id": "presseportal-6379713",
