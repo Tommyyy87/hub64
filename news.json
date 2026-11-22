@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-21T06:50:39+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 21.11.2026, 06:50",
+ "abgerufen": "2026-11-22T06:50:39+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 22.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-gusenburg-mehrfamilienhaus-brand-2026-11",
+   "quelle": "web",
+   "titel": "Großbrand im Hochwald: Mehrfamilienhaus in Gusenburg in Flammen",
+   "datum": "2026-11-21T12:00:00+01:00",
+   "link": "https://lokalo.de/artikel/438600/grossbrand-gusenburg-wohnhaus-feuerwehr-hochwald-21-november-2026",
+   "kurzfassung": "Am Samstagvormittag (21.11.) brannte in Gusenburg (Landkreis Trier-Saarburg) ein Mehrfamilienhaus, die Rauchsäule war bis ins Saarland sichtbar. Mehrere Feuerwehren, der Gefahrstoffzug, THW, Rettungsdienst und Polizei waren im Einsatz; Angaben zu Verletzten waren zunächst nicht behördlich bestätigt.",
+   "region": "national",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-fwm-koeln-riegelstellung-pkw-2026-11",
    "quelle": "web",
@@ -54,6 +64,16 @@
    "kategorie": "Technik"
   },
   {
+   "id": "web-bonn-dank-feuerwehr-2026-11",
+   "quelle": "web",
+   "titel": "Stadt Bonn dankt Feuerwehrleuten",
+   "datum": "2026-11-19T12:00:00+01:00",
+   "link": "https://www.bonn.de/pressemitteilungen/november-2026/stadt-bonn-dankt-feuerwehrleuten.php",
+   "kurzfassung": "Ordnungsdezernent Ralf Bockshecker und Feuerwehrchef Jochen Stein dankten am 18. November den Führungskräften der Freiwilligen Feuerwehr Bonn für ihren Einsatz. 2026 sei u. a. wegen einer langen Hitzewelle und zahlreicher Waldbrandeinsätze, etwa im Hürtgenwald, besonders fordernd gewesen.",
+   "region": "regional",
+   "kategorie": "Ehrenamt"
+  },
+  {
    "id": "web-fwm-essen-loeschfahrzeug-unfall-2026-11",
    "quelle": "web",
    "titel": "Löschfahrzeug kollidiert mit Pkw – Frau schwer verletzt",
@@ -72,6 +92,16 @@
    "kurzfassung": "Die Berufsfeuerwehren Hamburg und Lübeck haben 2026 neue Gerätewagen für ihre Tauchergruppen in Dienst gestellt – in Hamburg ein großer MAN mit Seilwinde, in Lübeck ein kompakter Iveco Daily für Wasser- und Eisrettung.",
    "region": "national",
    "kategorie": "Technik"
+  },
+  {
+   "id": "web-fwm-immensen-hoflader-stall-2026-11",
+   "quelle": "web",
+   "titel": "Hoflader in Vollbrand: 120 Kühe können im Stall bleiben",
+   "datum": "2026-11-18T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/hoflader-in-vollbrand-120-kuehe-koennen-im-stall-bleiben-145946",
+   "kurzfassung": "In Immensen (Region Hannover) brannte am 17. November ein Hoflader in einem Rinderstall, die Flammen griffen bereits auf das Gebäude über. 49 Einsatzkräfte verhinderten eine Ausbreitung, die rund 120 Kühe konnten im Stall bleiben; Menschen und Tiere blieben unverletzt.",
+   "region": "national",
+   "kategorie": "Einsatz"
   },
   {
    "id": "web-dfv-forum-brandschutzerziehung-berlin-2026-11",
@@ -292,36 +322,6 @@
    "kurzfassung": "Mutares hat am 9. November 2026 den Verkauf des Feuerwehrgeschäfts von Magirus an die japanische Morita Holdings vereinbart; der Bereich Defense & Security ist ausgenommen. Ein Termin für den Vollzug steht noch nicht fest.",
    "region": "national",
    "kategorie": "Technik"
-  },
-  {
-   "id": "web-dfv-ki-umfrage-einsatznachsorge-2026-11",
-   "quelle": "web",
-   "titel": "Umfrage zu KI-gestützter Intervention nach Einsätzen",
-   "datum": "2026-11-06T12:00:00+01:00",
-   "link": "https://www.feuerwehrverband.de/umfrage-zu-ki-gestuetzter-intervention-nach-einsaetzen/",
-   "kurzfassung": "Die Universität zu Lübeck und die Charlotte Fresenius Universität befragen Einsatzkräfte, wann eine KI-gestützte Intervention nach belastenden Einsätzen sinnvoll erscheint. Teilnehmen können alle Feuerwehrangehörigen, die Umfrage läuft bis 10. Dezember.",
-   "region": "national",
-   "kategorie": "Einsatznachsorge"
-  },
-  {
-   "id": "web-fwm-sagre-gewalt-einsatzkraefte-2026-11",
-   "quelle": "web",
-   "titel": "Gewalt gegen Einsatzkräfte: Studie zeigt Probleme bei der Meldung",
-   "datum": "2026-11-06T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/gewalt-gegen-einsatzkraefte-studie-zeigt-probleme-bei-der-meldung-145801",
-   "kurzfassung": "Laut der zweijährigen Studie SAGRE gehören Beleidigungen, Sachschäden und Behinderungen zu den häufigsten Übergriffen auf nichtpolizeiliche Einsatzkräfte. Viele Vorfälle werden nicht gemeldet, die Forschenden haben Handlungsempfehlungen erarbeitet.",
-   "region": "national",
-   "kategorie": "Einsatzkräfteschutz"
-  },
-  {
-   "id": "web-fwm-berlin-laufbahn-rettungsdienst-2026-11",
-   "quelle": "web",
-   "titel": "Eigene Beamtenlaufbahn für den Rettungsdienst gefordert",
-   "datum": "2026-11-06T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/eigene-beamtenlaufbahn-fuer-den-rettungsdienst-gefordert-145795",
-   "kurzfassung": "Die Deutsche Feuerwehr-Gewerkschaft Berlin-Brandenburg fordert einen eigenständigen Laufbahnzweig für den Rettungsdienst der Berliner Feuerwehr, auf den laut Gewerkschaft 91 Prozent der Einsätze entfallen. Bislang müssen Notfallsanitäter zusätzlich einen sechsmonatigen feuerwehrtechnischen Vorbereitungsdienst absolvieren.",
-   "region": "national",
-   "kategorie": "Rettungsdienst"
   },
   {
    "id": "presseportal-6379713",
