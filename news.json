@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-22T06:50:39+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 22.11.2026, 06:50",
+ "abgerufen": "2026-11-23T06:50:01+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 23.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-fwm-blackout-umfrage-2026-11",
+   "quelle": "web",
+   "titel": "Jede fünfte Stimme zur Blackout-Vorbereitung: Gar nicht vorbereitet",
+   "datum": "2026-11-23T00:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/jede-fuenfte-stimme-zur-blackout-vorbereitung-gar-nicht-vorbereitet-145992",
+   "kurzfassung": "In einer nicht repräsentativen Umfrage des Feuerwehr-Magazins (1.779 Stimmen) sehen 59 bis 64 Prozent der Teilnehmenden ihre Feuerwehr schlecht oder gar nicht auf einen längeren Stromausfall vorbereitet.",
+   "region": "national",
+   "kategorie": "Bevölkerungsschutz"
+  },
+  {
+   "id": "presseportal-6395565",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Verkehrsunfall auf der A40 - Drei Personen verletzt",
+   "datum": "2026-11-22T22:20:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6395565",
+   "kurzfassung": "Am Sonntagabend kam ein Pkw auf der A40 in Fahrtrichtung Duisburg kurz nach der Auffahrt Winkhausen von der Fahrbahn ab und blieb in der Böschung liegen. Zwei Insassinnen verließen das Fahrzeug selbst, die Beifahrerin wurde schonend gerettet; alle drei Verletzten kamen in Krankenhäuser.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
   {
    "id": "web-gusenburg-mehrfamilienhaus-brand-2026-11",
    "quelle": "web",
@@ -312,16 +332,6 @@
    "kurzfassung": "Bei einem Brand im ersten Obergeschoss eines Mehrfamilienhauses in Dortmund-Hombruch rettete die Feuerwehr eine Bewohnerin, die sich auf einen äußeren Fenstersims geflüchtet hatte, mit der Drehleiter. Die Frau kam verletzt ins Krankenhaus, rund 40 Einsatzkräfte löschten das Feuer.",
    "region": "regional",
    "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-fwm-magirus-verkauf-morita-2026-11",
-   "quelle": "web",
-   "titel": "Magirus: Mutares vereinbart Verkauf an Morita",
-   "datum": "2026-11-09T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/magirus-mutares-vereinbart-verkauf-an-morita-145821",
-   "kurzfassung": "Mutares hat am 9. November 2026 den Verkauf des Feuerwehrgeschäfts von Magirus an die japanische Morita Holdings vereinbart; der Bereich Defense & Security ist ausgenommen. Ein Termin für den Vollzug steht noch nicht fest.",
-   "region": "national",
-   "kategorie": "Technik"
   },
   {
    "id": "presseportal-6379713",
