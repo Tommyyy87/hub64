@@ -1,8 +1,28 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-23T06:50:01+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 23.11.2026, 06:50",
+ "abgerufen": "2026-11-24T06:50:27+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 24.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-dfv-demokratieprojekte-ehrenamt-on-fire-2026-11",
+   "quelle": "web",
+   "titel": "Demokratieprojekte bilden Feuerwehren weiter",
+   "datum": "2026-11-23T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/demokratieprojekte-bilden-feuerwehren-weiter/",
+   "kurzfassung": "Rund 90 Feuerwehrangehörige nahmen Mitte November am digitalen Fachtag „Ehrenamt on Fire“ von drei Landesfeuerwehrverbänden im Bundesprogramm „Zusammenhalt durch Teilhabe“ teil. Prof. Dr. Roland Goertz warb dafür, u. a. Menschen mit Migrationshintergrund stärker für den Bevölkerungsschutz zu gewinnen.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "web-ctif-stanford-wildfire-convening-2026-11",
+   "quelle": "web",
+   "titel": "CTIF-Vizepräsidentin bei Stanford International Wildfire Convening und Red Sky Summit",
+   "datum": "2026-11-23T12:00:00+01:00",
+   "link": "https://www.ctif.org/news/bringing-global-wildfire-community-together-ctif-vice-president-participates-stanford",
+   "kurzfassung": "CTIF-Vizepräsidentin Zisoula Ntasiou vertrat am 3. und 4. November in Stanford und San Francisco die europäische und griechische Feuerwehrperspektive. Vertreter aus 17 Ländern berieten über die Zusammenarbeit von Einsatzkräften, Wissenschaft und Technologie bei Waldbränden.",
+   "region": "international",
+   "kategorie": "Waldbrand"
+  },
   {
    "id": "web-fwm-blackout-umfrage-2026-11",
    "quelle": "web",
@@ -311,26 +331,6 @@
    "link": "https://www.feuerwehrmagazin.de/nachrichten/tiefgaragenbrand-fuenf-verletzte-in-weil-am-rhein-145843",
    "kurzfassung": "In der Tiefgarage eines Einkaufszentrums in Weil am Rhein brannten vier Pkw, fünf Menschen wurden leicht verletzt. Rund 130 Einsatzkräfte waren vor Ort; zur Entrauchung wurde ein Großlüfter der Berufsfeuerwehr Basel angefordert.",
    "region": "national",
-   "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-fwm-hannover-notfallinformationspunkte-2026-11",
-   "quelle": "web",
-   "titel": "43 Notfallinformationspunkte erstmals zeitgleich aufgebaut",
-   "datum": "2026-11-10T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/43-notfallinformationspunkte-erstmals-zeitgleich-aufgebaut-145824",
-   "kurzfassung": "Bei einer Übung am 7. November 2026 bauten in Hannover rund 500 Einsatzkräfte mit 110 Fahrzeugen erstmals alle 43 Notfallinformationspunkte gleichzeitig auf; simuliert wurde ein länger andauernder Stromausfall. Ab Mitte 2027 sollen die Punkte dauerhaft besetzt werden können.",
-   "region": "national",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-dortmund-hombruch-drehleiter-2026-11",
-   "quelle": "web",
-   "titel": "Wohnungsbrand in Dortmund-Hombruch: Feuerwehr rettet Bewohnerin über Drehleiter",
-   "datum": "2026-11-10T09:34:00+01:00",
-   "link": "https://www.dortmund.de/newsroom/presse-mitteilungen/wohnungsbrand-in-mehrfamilienhaus-in-dortmund-hombruch-feuerwehr-rettet-bewohnerin-ueber-drehleiter.html",
-   "kurzfassung": "Bei einem Brand im ersten Obergeschoss eines Mehrfamilienhauses in Dortmund-Hombruch rettete die Feuerwehr eine Bewohnerin, die sich auf einen äußeren Fenstersims geflüchtet hatte, mit der Drehleiter. Die Frau kam verletzt ins Krankenhaus, rund 40 Einsatzkräfte löschten das Feuer.",
-   "region": "regional",
    "kategorie": "Einsatz"
   },
   {
