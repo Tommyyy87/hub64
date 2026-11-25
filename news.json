@@ -1,8 +1,48 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-24T06:50:27+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 24.11.2026, 06:50",
+ "abgerufen": "2026-11-25T06:50:21+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 25.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-fwm-stiftung-auszeit-einsatzverletzte-2026-11",
+   "quelle": "web",
+   "titel": "Stiftung schenkt einsatzverunfallten Feuerwehrleuten eine Auszeit",
+   "datum": "2026-11-25T06:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/stiftung-schenkt-einsatzverunfallten-feuerwehrleuten-eine-auszeit-146054",
+   "kurzfassung": "Die Oberst Schöttler Versehrten-Stiftung und das Baden-Württembergische Feuerwehrheim „St. Florian“ ermöglichen einsatz- oder übungsdienstverletzten Feuerwehrleuten bezahlte Erholungsaufenthalte. Die Gutscheine umfassen sechs Übernachtungen mit Halbpension im Hochschwarzwald oder Erzgebirge.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "web-bonn-uni-labor-verpuffung-2026-11",
+   "quelle": "web",
+   "titel": "FW-BN: Brand nach Verpuffung in Labor der Universität Bonn - drei Leichtverletzte",
+   "datum": "2026-11-24T14:57:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115888/6397205",
+   "kurzfassung": "Nach einer Verpuffung in einem Abzug eines Labors des Pharmazeutischen Instituts auf dem Campus Endenich löschten Mitarbeitende den Brand mit Feuerlöschern noch vor Eintreffen der Feuerwehr. Drei Beschäftigte wurden leicht verletzt und vorsorglich ins Krankenhaus gebracht.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-fwm-kehl-co-fuenf-tote-2026-11",
+   "quelle": "web",
+   "titel": "Fünf Tote in Wohnung: CO-Warnmelder lösen bereits bei Türöffnung aus",
+   "datum": "2026-11-24T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034",
+   "kurzfassung": "Bei einer Türöffnung in einem Mehrfamilienhaus in Kehl-Sundheim fand die Feuerwehr fünf Tote; die CO-Warnmelder der Einsatzkräfte schlugen bereits beim Öffnen der Tür an, die Ermittler gehen von einem Kohlenmonoxid-Austritt aus. Präventionshinweis: CO-Melder in Räumen mit Gasthermen, Öfen oder Kaminen installieren.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-fwm-hackathon-bevoelkerungsschutz-2026-11",
+   "quelle": "web",
+   "titel": "Innovationen für den Bevölkerungsschutz",
+   "datum": "2026-11-24T10:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/innovationen-fuer-den-bevoelkerungsschutz-146027",
+   "kurzfassung": "In München fand die zweite Auflage eines rund 24-stündigen Feuerwehr-Hackathons mit elf Aufgaben aus realen Problemstellungen statt.",
+   "region": "national",
+   "kategorie": "Technik"
+  },
   {
    "id": "web-dfv-demokratieprojekte-ehrenamt-on-fire-2026-11",
    "quelle": "web",
@@ -20,6 +60,16 @@
    "datum": "2026-11-23T12:00:00+01:00",
    "link": "https://www.ctif.org/news/bringing-global-wildfire-community-together-ctif-vice-president-participates-stanford",
    "kurzfassung": "CTIF-Vizepräsidentin Zisoula Ntasiou vertrat am 3. und 4. November in Stanford und San Francisco die europäische und griechische Feuerwehrperspektive. Vertreter aus 17 Ländern berieten über die Zusammenarbeit von Einsatzkräften, Wissenschaft und Technologie bei Waldbränden.",
+   "region": "international",
+   "kategorie": "Waldbrand"
+  },
+  {
+   "id": "web-palisades-fire-urteil-2026-11",
+   "quelle": "web",
+   "titel": "Federal Jury Convicts Man of Starting Deadly 2025 Palisades Fire",
+   "datum": "2026-11-23T12:00:00+01:00",
+   "link": "https://www.insurancejournal.com/news/west/2026/11/23/893487.htm",
+   "kurzfassung": "Ein US-Bundesgericht hat einen 30-Jährigen schuldig gesprochen, das Feuer vom 1. Januar 2025 gelegt zu haben, aus dem sich der Palisades Fire mit zwölf Todesopfern entwickelte. Das Strafmaß soll am 17. März 2027 verkündet werden.",
    "region": "international",
    "kategorie": "Waldbrand"
   },
@@ -282,56 +332,6 @@
    "kurzfassung": "Neun Bürgerinnen und Bürger aus dem Ostalbkreis sind nach einer 15-stündigen Ausbildung als Feuerwehrhelfer der Feuerwehr Leinzell einsatzbereit; sie unterstützen bei Großschadenslagen außerhalb von Gefahrenbereichen. Das Pilotprojekt entstand nach dem Hochwasser im Juni 2024.",
    "region": "national",
    "kategorie": "Ehrenamt"
-  },
-  {
-   "id": "web-sturmtief-charles-portugal-spanien-2026-11",
-   "quelle": "web",
-   "titel": "Sturmtief „Charles“ hält Einsatzkräfte in Portugal und Spanien auf Trab",
-   "datum": "2026-11-11T17:15:00+01:00",
-   "link": "https://www.volksstimme.de/panorama/sturmtief-charles-halt-einsatzkrafte-in-portugal-auf-trab-4354332",
-   "kurzfassung": "Sturmtief „Charles“ löste auf dem portugiesischen Festland über 500 und auf Madeira fast 300 Einsätze aus, 360 Flüge fielen aus. In Spanien wurden in Piedralaves (Ávila) rund 2.200 Menschen evakuiert.",
-   "region": "international",
-   "kategorie": "Unwetter"
-  },
-  {
-   "id": "web-dfv-staab-gleichstellung-2026-11",
-   "quelle": "web",
-   "titel": "Christiane Staab ist neue DFV-Bundesbeauftragte für Gleichstellung",
-   "datum": "2026-11-11T12:00:00+01:00",
-   "link": "https://www.feuerwehrverband.de/christiane-staab-ist-neue-dfv-bundesbeauftragte-fuer-gleichstellung/",
-   "kurzfassung": "Die baden-württembergische Landtagsabgeordnete und aktive Feuerwehrfrau Christiane Staab übernimmt ehrenamtlich das Amt der Bundesbeauftragten für Gleichstellung im Deutschen Feuerwehrverband.",
-   "region": "national",
-   "kategorie": "Verband"
-  },
-  {
-   "id": "web-eu-lahbib-groenland-arktis-2026-11",
-   "quelle": "web",
-   "titel": "EU-Kommissarin Lahbib reist nach Grönland – mehr Zusammenarbeit bei der Krisenvorsorge in der Arktis",
-   "datum": "2026-11-11T12:00:00+01:00",
-   "link": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-travels-greenland-eu-steps-arctic-preparedness-cooperation-2026-11-11_en",
-   "kurzfassung": "EU-Kommissarin Hadja Lahbib besucht Grönland, um die Zusammenarbeit bei der Katastrophenvorsorge in der Arktis zu vertiefen. Die EU verweist auf steigende Risiken wie Waldbrände, Erdrutsche, Tsunamis und Überflutungen durch Eisschmelze.",
-   "region": "international",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-fwm-herdecke-fahrrad-rettung-2026-11",
-   "quelle": "web",
-   "titel": "Radfahrer leiht Feuerwehr sein Fahrrad für Rettungseinsatz",
-   "datum": "2026-11-11T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/radfahrer-leiht-feuerwehr-sein-fahrrad-fuer-rettungseinsatz-145839",
-   "kurzfassung": "Am Hengsteysee in Herdecke überließ ein Radfahrer Einsatzkräften spontan sein Fahrrad, damit sie eine schwer verletzte 47-jährige Inlineskaterin auf einem für Fahrzeuge nicht befahrbaren Weg schneller erreichen konnten. Die Frau wurde anschließend rund 500 Meter mit einem Tragegestell zum Rettungswagen gebracht.",
-   "region": "regional",
-   "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-fwm-weil-am-rhein-tiefgarage-2026-11",
-   "quelle": "web",
-   "titel": "Tiefgaragenbrand: Fünf Verletzte in Weil am Rhein",
-   "datum": "2026-11-11T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/tiefgaragenbrand-fuenf-verletzte-in-weil-am-rhein-145843",
-   "kurzfassung": "In der Tiefgarage eines Einkaufszentrums in Weil am Rhein brannten vier Pkw, fünf Menschen wurden leicht verletzt. Rund 130 Einsatzkräfte waren vor Ort; zur Entrauchung wurde ein Großlüfter der Berufsfeuerwehr Basel angefordert.",
-   "region": "national",
-   "kategorie": "Einsatz"
   },
   {
    "id": "presseportal-6379713",
