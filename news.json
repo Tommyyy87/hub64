@@ -1,8 +1,18 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-25T06:50:21+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 25.11.2026, 06:50",
+ "abgerufen": "2026-11-26T06:50:10+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 26.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-ctif-forest-fires-tonsberg-2026-11",
+   "quelle": "web",
+   "titel": "CTIF Forest Fires Commission Meeting in Tønsberg, Norway: Sharing Experiences and Drawing Lessons",
+   "datum": "2026-11-25T12:00:00+01:00",
+   "link": "https://www.ctif.org/news/ctif-forest-fires-commission-meeting-tonsberg-norway-sharing-experiences-and-drawing-lessons",
+   "kurzfassung": "Die CTIF-Waldbrandkommission tagte vom 17. bis 20. November 2026 in Tønsberg (Norwegen) mit Fachleuten aus 13 Ländern. Ziel war, aus der Waldbrandsaison 2026 gemeinsame Lehren für Vorbereitung, Einsatzentscheidungen und internationale Zusammenarbeit zu ziehen.",
+   "region": "international",
+   "kategorie": "Waldbrand"
+  },
   {
    "id": "web-fwm-stiftung-auszeit-einsatzverletzte-2026-11",
    "quelle": "web",
@@ -72,6 +82,26 @@
    "kurzfassung": "Ein US-Bundesgericht hat einen 30-Jährigen schuldig gesprochen, das Feuer vom 1. Januar 2025 gelegt zu haben, aus dem sich der Palisades Fire mit zwölf Todesopfern entwickelte. Das Strafmaß soll am 17. März 2027 verkündet werden.",
    "region": "international",
    "kategorie": "Waldbrand"
+  },
+  {
+   "id": "web-dfv-zivilgesellschaft-unter-druck-2026-11",
+   "quelle": "web",
+   "titel": "Zivilgesellschaft weiter unter Druck",
+   "datum": "2026-11-23T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/zivilgesellschaft-weiter-unter-druck/",
+   "kurzfassung": "Das Bundesnetzwerk Bürgerschaftliches Engagement wächst auf über 300 Mitglieder, zugleich treffen Förderkürzungen auch die Deutsche Jugendfeuerwehr und Landesfeuerwehrverbände. Der DFV unterzeichnete ein BBE-Positionspapier zur Stärkung der Zivilgesellschaft.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "web-fwm-mainz-feuerwehrmann-weckt-bewohner-2026-11",
+   "quelle": "web",
+   "titel": "Feuerwehrmann weckt Bewohner in verrauchter Wohnung",
+   "datum": "2026-11-23T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehrmann-weckt-schlafenden-bewohner-in-verrauchter-wohnung-146017",
+   "kurzfassung": "In Mainz hörte ein Feuerwehrmann der Feuerwache 2 einen Rauchmelder im Nachbargebäude und weckte einen schlafenden Bewohner in der stark verrauchten Erdgeschosswohnung – Ursache war angebranntes Essen auf dem Herd. Niemand im Haus hatte die Feuerwehr gerufen. Präventionshinweis: Beim Piepen eines Rauchmelders immer 112 wählen.",
+   "region": "national",
+   "kategorie": "Prävention"
   },
   {
    "id": "web-fwm-blackout-umfrage-2026-11",
@@ -302,36 +332,6 @@
    "kurzfassung": "Zum Rauchmeldertag am 13.11. zeigt eine INNOFACT-Umfrage unter 2.092 Hauseigentümern: 91 % haben Rauchmelder, aber nur 34 % haben alle vorgeschriebenen Räume ausgestattet und im letzten Jahr geprüft. Die Initiative „Rauchmelder retten Leben“ ruft dazu auf, fehlende Melder nachzurüsten und regelmäßig zu testen.",
    "region": "national",
    "kategorie": "Prävention"
-  },
-  {
-   "id": "web-fwm-koeln-einsatzdrohne-2026-11",
-   "quelle": "web",
-   "titel": "Köln zieht nach: Feuerwehr testet automatische Einsatzdrohne",
-   "datum": "2026-11-13T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/koeln-zieht-nach-feuerwehr-testet-automatische-einsatzdrohne-145902",
-   "kurzfassung": "Die Feuerwehr Köln testet bis voraussichtlich Ende Januar 2027 eine Drohne, die nach Alarmierung selbstständig vom Dach startet und Live- und Wärmebilder an die Leitstelle sendet. Ähnliche Projekte laufen u. a. in Essen, München, Wiesbaden und im Kreis Paderborn.",
-   "region": "regional",
-   "kategorie": "Technik"
-  },
-  {
-   "id": "web-fwm-ellerau-durchzuendung-2026-11",
-   "quelle": "web",
-   "titel": "Durchzündung und Einsturz: Feuerwehr bricht Innenangriff ab",
-   "datum": "2026-11-12T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/durchzuendung-und-einsturz-feuerwehr-bricht-innenangriff-ab-145849",
-   "kurzfassung": "Bei einem Brand in einer Möbeltischlerei in Ellerau (Kreis Segeberg) musste die Feuerwehr am 10. November nach einer Durchzündung und einem Teileinsturz den Innenangriff abbrechen. Rund 120 Einsatzkräfte waren beteiligt, verletzt wurde niemand.",
-   "region": "national",
-   "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-fwm-leinzell-feuerwehrhelfer-2026-11",
-   "quelle": "web",
-   "titel": "Feuerwehr Leinzell: Neun Helfer nach 15 Stunden Ausbildung bereit",
-   "datum": "2026-11-12T00:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehr-leinzell-neun-helfer-nach-15-stunden-ausbildung-bereit-145864",
-   "kurzfassung": "Neun Bürgerinnen und Bürger aus dem Ostalbkreis sind nach einer 15-stündigen Ausbildung als Feuerwehrhelfer der Feuerwehr Leinzell einsatzbereit; sie unterstützen bei Großschadenslagen außerhalb von Gefahrenbereichen. Das Pilotprojekt entstand nach dem Hochwasser im Juni 2024.",
-   "region": "national",
-   "kategorie": "Ehrenamt"
   },
   {
    "id": "presseportal-6379713",
