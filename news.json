@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "abgerufen": "2026-11-26T06:50:10+01:00",
- "hinweis": "Automatisch aktualisiert von Claude am 26.11.2026, 06:50",
+ "abgerufen": "2026-11-28T06:50:32+01:00",
+ "hinweis": "Automatisch aktualisiert von Claude am 28.11.2026, 06:50",
  "eintraege": [
+  {
+   "id": "web-bochum-strassenbahn-pkw-2026-11",
+   "quelle": "web",
+   "titel": "FW-BO: Verkehrsunfall zwischen PKW und Straßenbahn",
+   "datum": "2026-11-27T23:37:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115868/6399591",
+   "kurzfassung": "An der Kreuzung Gollheide/Wattenscheider Straße in Bochum stießen gegen 22:15 Uhr eine Straßenbahn und ein Pkw zusammen; die Bahn entgleiste. Sieben Personen wurden leicht verletzt, fünf kamen ins Krankenhaus.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-dortmund-dachstuhlbrand-fachwerkhaus-2026-11",
+   "quelle": "web",
+   "titel": "FW-DO: Ausgedehnter Dachstuhlbrand in Fachwerkhaus am Asselner Hellweg",
+   "datum": "2026-11-27T18:52:00+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115869/6399575",
+   "kurzfassung": "Gegen 13:05 Uhr wurde die Feuerwehr Dortmund zu einem ausgedehnten Dachstuhlbrand in einem Fachwerkhaus am Asselner Hellweg alarmiert; laut Feuerwehr befanden sich keine Personen mehr im Gebäude. Zu Spitzenzeiten waren rund 80 Einsatzkräfte von Feuerwehr und Rettungsdienst im Einsatz.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-dfv-sieben-tipps-adventszeit-2026-11",
+   "quelle": "web",
+   "titel": "Feuerwehrverband gibt sieben Tipps für sichere Adventszeit",
+   "datum": "2026-11-27T12:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/feuerwehrverband-gibt-sieben-tipps-fuer-sichere-adventszeit/",
+   "kurzfassung": "Der Deutsche Feuerwehrverband hat sieben Tipps veröffentlicht, wie die Adventszeit ohne Brände bleibt, da Unachtsamkeit mit Kerzen eine häufige Brandursache ist. Die Empfehlungen reichen von stabilen, unbrennbaren Haltern und rechtzeitigem Löschen bis zu elektrischen Kerzen in Haushalten mit Kindern oder Haustieren.",
+   "region": "national",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-dfv-materialsammlung-oeffentlichkeitsarbeit-2026-11",
+   "quelle": "web",
+   "titel": "Materialsammlung für Öffentlichkeitsarbeit",
+   "datum": "2026-11-27T11:00:00+01:00",
+   "link": "https://www.feuerwehrverband.de/materialsammlung-fuer-oeffentlichkeitsarbeit/",
+   "kurzfassung": "Der Deutsche Feuerwehrverband hat eine Materialsammlung für die Öffentlichkeitsarbeit der Feuerwehren veröffentlicht.",
+   "region": "national",
+   "kategorie": "Verband"
+  },
+  {
+   "id": "presseportal-6398823",
+   "quelle": "presseportal",
+   "titel": "FW-MH: Küchenbrand in Mülheim-Styrum",
+   "datum": "2026-11-26T20:02:45+01:00",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6398823",
+   "kurzfassung": "Nachbarn bemerkten Rauch und Flammen aus einer Erdgeschosswohnung an der Moritzstraße; zwei Trupps unter Atemschutz löschten den Küchenbrand und kontrollierten das Haus. Der Rettungsdienst sichtete 13 Personen, drei kamen zur Kontrolle auf Rauchgasinhalation ins Krankenhaus. Präventionshinweis: Kochstelle nie unbeaufsichtigt lassen und Rauchmelder auch in Küchennähe/Fluren prüfen.",
+   "region": "regional",
+   "kategorie": "Einsatz"
+  },
+  {
+   "id": "web-fwm-werne-aufklaerungskoffer-senioren-2026-11",
+   "quelle": "web",
+   "titel": "Brandschutz: Aufklärungskoffer für Senioren-Haushalte",
+   "datum": "2026-11-26T12:00:00+01:00",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/brandschutz-aufklaerungskoffer-fuer-senioren-haushalte-146066",
+   "kurzfassung": "Die Freiwillige Feuerwehr Werne (Kreis Unna) hat einen vom Verband der Feuerwehren in NRW und der Provinzial ermöglichten Brandschutzaufklärungskoffer für Menschen ab 60 erhalten. Er enthält u. a. Rauch-, Hitze- und CO-Melder, Notrufarmband, Notfalldose und Feuerlöschspray und kann für Veranstaltungen ausgeliehen werden.",
+   "region": "regional",
+   "kategorie": "Prävention"
+  },
+  {
+   "id": "web-ctif-fire-statistics-center-autumn-2026",
+   "quelle": "web",
+   "titel": "Meeting of the Fire Statistics Center - Autumn 2026",
+   "datum": "2026-11-26T12:00:00+01:00",
+   "link": "https://www.ctif.org/news/meeting-fire-statistics-center-autumn-2026",
+   "kurzfassung": "Das CTIF-Zentrum für Brandstatistik tagte in Schwedt (Oder) zu Verfügbarkeit Freiwilliger, Bränden in Hotels und Clubs sowie Krebsprävention bei Feuerwehrleuten. Eine Umfrage unter Mitgliedsstaaten zur Krebsprävention soll in den nächsten Weltfeuerwehrstatistik-Bericht einfließen.",
+   "region": "international",
+   "kategorie": "Verband"
+  },
   {
    "id": "web-ctif-forest-fires-tonsberg-2026-11",
    "quelle": "web",
@@ -264,36 +334,6 @@
    "kategorie": "Bevölkerungsschutz"
   },
   {
-   "id": "web-fwm-dachau-fettbrand-einkaufszentrum-2026-11",
-   "quelle": "web",
-   "titel": "Fettbrand im Einkaufszentrum: Feuerwehr muss Blechdach aufreißen",
-   "datum": "2026-11-16T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/fettbrand-im-einkaufszentrum-feuerwehr-muss-blechdach-aufreissen-145915",
-   "kurzfassung": "Ein Fettbrand in einer Restaurantküche eines Dachauer Einkaufszentrums breitete sich am 13. November in die Dachkonstruktion aus; mehr als 180 Einsatzkräfte waren rund zwölf Stunden im Einsatz und mussten das Blechdach mit Greifbagger und Kran öffnen. Eine Person erlitt schwere Verbrennungen. Präventionstipp: Fettbrand nie mit Wasser löschen – Deckel drauf, Herd aus.",
-   "region": "national",
-   "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-fwm-foehr-tlf-ukraine-2026-11",
-   "quelle": "web",
-   "titel": "„Hauke“ von Föhr soll zerstörtes Löschfahrzeug in der Ukraine ersetzen",
-   "datum": "2026-11-16T12:00:00+01:00",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/hauke-von-foehr-soll-zerstoertes-loeschfahrzeug-ersetzen-145875",
-   "kurzfassung": "Ein Hilfsverein hat das 33 Jahre alte Tanklöschfahrzeug der FF Utersum-Dunsum-Hedehusum ersteigert, um in Zirkuny bei Charkiw ein durch eine Drohne zerstörtes Löschfahrzeug zu ersetzen; die Überführung ist für Dezember geplant. Die Föhrer Wehr spendete zusätzlich Schutzausrüstung und Armaturen.",
-   "region": "international",
-   "kategorie": "Hilfe"
-  },
-  {
-   "id": "web-indonesien-waldbrand-haze-2026-11",
-   "quelle": "web",
-   "titel": "Indonesien entschuldigt sich bei Malaysia und Singapur für Waldbrand-Smog",
-   "datum": "2026-11-16T00:00:00+01:00",
-   "link": "https://www.philstar.com/world/2026/11/16/2570486/indonesia-apologises-malaysia-singapore-over-wildfire-haze",
-   "kurzfassung": "Präsident Prabowo Subianto entschuldigte sich beim ASEAN-Gipfel in Manila für den monatelangen Rauch aus Waldbränden auf Borneo, Sumatra und Papua. 2026 brannten in Indonesien rund 2,88 Mio. Hektar; 71.000 Kräfte waren im Einsatz, 16 Feuerwehrleute kamen ums Leben (Quelle: AFP).",
-   "region": "international",
-   "kategorie": "Waldbrand"
-  },
-  {
    "id": "presseportal-6390814",
    "quelle": "presseportal",
    "titel": "FW-MH: Feuerwehr Mülheim unterstützt Erkrath mit Spezialkräften bei Trinkwassernotlage",
@@ -302,36 +342,6 @@
    "kurzfassung": "Nach dem Bruch einer Hauptwasserleitung in Erkrath unterstützte die Feuerwehr Mülheim am 14. November mit Fachberatern, dem Schnelleinsatzsystem Kritische Infrastrukturen Wasser (SES KRITIS W) und 18 Einsatzkräften von Berufs- und Freiwilliger Feuerwehr. Gemeinsam mit Feuerwehr Erkrath, Wasserversorger und THW wurden rund 120.000 Liter Trinkwasser aus Hilden zu einem Hochbehälter transportiert.",
    "region": "regional",
    "kategorie": "Einsatz"
-  },
-  {
-   "id": "web-bonn-waldbrand-tlf-2026-11",
-   "quelle": "web",
-   "titel": "Feuerwehr Bonn stellt neues Waldbrand-Tanklöschfahrzeug in Dienst",
-   "datum": "2026-11-14T12:00:00+01:00",
-   "link": "https://www.bonn.de/pressemitteilungen/november-2026/feuerwehr-bonn-stellt-neues-waldbrand-tankloeschfahrzeug-in-dienst.php",
-   "kurzfassung": "Die Feuerwehr Bonn hat das erste von acht landesfinanzierten Waldbrand-Tanklöschfahrzeugen (rund 3.000 Liter Wasser) bei einer Übung im Ennert eingeweiht. Ab Dezember fährt es im regulären Dienst und kann von anderen NRW-Kommunen sowie für das EU-Waldbrandmodul angefordert werden.",
-   "region": "regional",
-   "kategorie": "Technik"
-  },
-  {
-   "id": "web-mg-betreuungsplatz-uebung-2026-11",
-   "quelle": "web",
-   "titel": "Mönchengladbacher Hilfsorganisationen trainieren den Aufbau eines Betreuungsplatzes",
-   "datum": "2026-11-13T19:28:00+01:00",
-   "link": "https://www.presseportal.de/blaulicht/pm/115879/6390377",
-   "kurzfassung": "ASB, DRK, Johanniter, Malteser und die Feuerwehr Mönchengladbach übten am 14. November den Aufbau und Betrieb eines Betreuungsplatzes für bis zu 500 Personen an einem vorgeplanten Schulstandort. 20 Darstellende spielten Betroffene, geübt wurden Registrierung, Betreuung, Versorgung und die Anfahrt im Verband.",
-   "region": "regional",
-   "kategorie": "Bevölkerungsschutz"
-  },
-  {
-   "id": "web-dfv-rauchmeldertag-umfrage-2026-11",
-   "quelle": "web",
-   "titel": "Nur jeder dritte Hauseigentümer ist ausreichend durch Rauchmelder geschützt",
-   "datum": "2026-11-13T12:00:00+01:00",
-   "link": "https://www.feuerwehrverband.de/nur-jeder-dritte-hauseigentuemer-ist-ausreichend-durch-rauchmelder-geschuetzt/",
-   "kurzfassung": "Zum Rauchmeldertag am 13.11. zeigt eine INNOFACT-Umfrage unter 2.092 Hauseigentümern: 91 % haben Rauchmelder, aber nur 34 % haben alle vorgeschriebenen Räume ausgestattet und im letzten Jahr geprüft. Die Initiative „Rauchmelder retten Leben“ ruft dazu auf, fehlende Melder nachzurüsten und regelmäßig zu testen.",
-   "region": "national",
-   "kategorie": "Prävention"
   },
   {
    "id": "presseportal-6379713",
